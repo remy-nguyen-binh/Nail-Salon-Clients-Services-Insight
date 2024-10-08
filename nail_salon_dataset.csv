@@ -1,0 +1,1001 @@
+Date,Client ID,Client Age,Client Gender,Service Type,Service Price CAD,Employee ID,Service Duration Minutes,Payment Method,Customer Booking Type,Customer Satisfaction Rating
+3/23/2023,C1,47,Male,Gel Nails,CAD 128.62,E5,81,Credit Card,Walk-in,5
+7/27/2023,C2,43,Female,Manicure,CAD 60.67,E12,109,Credit Card,Pre-booked,3
+1/9/2023,C3,23,Male,Acrylic Nails,CAD 27.10,E14,80,Mobile Payment,Walk-in,5
+6/2/2023,C4,60,Female,Manicure,CAD 35.54,E3,34,Credit Card,Walk-in,5
+3/9/2023,C5,44,Male,Manicure,CAD 104.60,E5,51,Credit Card,Walk-in,2
+7/14/2023,C6,21,Male,Acrylic Nails,CAD 27.19,E12,99,Cash,Walk-in,3
+9/24/2023,C7,42,Female,Manicure,CAD 65.45,E15,40,Debit Card,Pre-booked,2
+9/14/2023,C8,43,Male,Foot Massage,CAD 65.63,E13,117,Debit Card,Walk-in,3
+5/5/2023,C9,55,Male,Gel Nails,CAD 51.20,E1,67,Cash,Walk-in,2
+7/21/2023,C10,59,Male,Gel Nails,CAD 120.74,E1,43,Debit Card,Pre-booked,5
+9/15/2023,C11,44,Male,Pedicure,CAD 129.39,E4,85,Debit Card,Walk-in,5
+2/16/2023,C12,37,Female,Acrylic Nails,CAD 42.32,E4,114,Credit Card,Walk-in,2
+6/17/2023,C13,32,Male,Nail Art,CAD 69.00,E2,113,Debit Card,Walk-in,1
+2/6/2023,C14,29,Female,Nail Art,CAD 20.49,E12,91,Cash,Walk-in,2
+10/10/2023,C15,25,Male,Acrylic Nails,CAD 120.91,E8,91,Cash,Walk-in,5
+5/3/2023,C16,30,Male,Pedicure,CAD 73.81,E14,60,Cash,Walk-in,3
+1/20/2023,C17,35,Male,Acrylic Nails,CAD 101.08,E8,109,Debit Card,Pre-booked,4
+5/17/2023,C18,39,Female,Gel Nails,CAD 25.32,E2,51,Cash,Pre-booked,3
+2/19/2023,C19,37,Male,Acrylic Nails,CAD 81.36,E7,38,Credit Card,Walk-in,4
+1/31/2023,C20,20,Male,Acrylic Nails,CAD 99.65,E1,75,Cash,Pre-booked,3
+3/3/2023,C21,41,Male,Foot Massage,CAD 43.66,E14,106,Debit Card,Walk-in,4
+6/19/2023,C22,31,Male,Gel Nails,CAD 120.59,E9,47,Credit Card,Pre-booked,5
+4/30/2023,C23,65,Male,Pedicure,CAD 90.29,E15,60,Debit Card,Walk-in,4
+3/12/2023,C24,30,Female,Acrylic Nails,CAD 146.65,E5,52,Credit Card,Walk-in,4
+6/11/2023,C25,27,Female,Gel Nails,CAD 68.70,E9,65,Credit Card,Walk-in,1
+7/26/2023,C26,51,Female,Pedicure,CAD 67.67,E12,83,Credit Card,Pre-booked,5
+1/25/2023,C27,63,Female,Gel Nails,CAD 74.96,E4,32,Debit Card,Pre-booked,3
+2/2/2023,C28,36,Male,Acrylic Nails,CAD 61.79,E11,113,Cash,Pre-booked,5
+8/25/2023,C29,36,Male,Manicure,CAD 37.59,E12,57,Mobile Payment,Pre-booked,1
+5/16/2023,C30,38,Female,Nail Art,CAD 23.37,E8,78,Mobile Payment,Pre-booked,1
+3/22/2023,C31,63,Female,Manicure,CAD 121.50,E1,108,Debit Card,Pre-booked,5
+7/13/2023,C32,29,Male,Manicure,CAD 76.97,E3,39,Credit Card,Pre-booked,3
+8/4/2023,C33,25,Male,Manicure,CAD 56.16,E3,63,Debit Card,Pre-booked,2
+3/5/2023,C34,48,Male,Nail Art,CAD 46.90,E12,76,Debit Card,Pre-booked,2
+10/12/2023,C35,54,Female,Foot Massage,CAD 51.59,E1,31,Mobile Payment,Pre-booked,1
+12/24/2023,C36,31,Female,Foot Massage,CAD 50.83,E3,85,Debit Card,Pre-booked,4
+7/6/2023,C37,51,Female,Foot Massage,CAD 146.72,E13,60,Debit Card,Walk-in,5
+7/24/2023,C38,30,Male,Foot Massage,CAD 69.03,E5,118,Mobile Payment,Walk-in,1
+1/5/2023,C39,39,Male,Acrylic Nails,CAD 52.39,E9,93,Mobile Payment,Walk-in,3
+1/30/2023,C40,23,Female,Pedicure,CAD 64.86,E6,40,Mobile Payment,Walk-in,2
+11/21/2023,C41,45,Female,Nail Art,CAD 115.31,E8,69,Debit Card,Pre-booked,3
+3/23/2023,C42,21,Female,Acrylic Nails,CAD 114.40,E1,97,Debit Card,Walk-in,4
+5/3/2023,C43,44,Male,Foot Massage,CAD 134.18,E15,30,Credit Card,Walk-in,5
+3/15/2023,C44,24,Female,Gel Nails,CAD 99.50,E9,57,Mobile Payment,Walk-in,4
+10/29/2023,C45,45,Female,Manicure,CAD 88.62,E12,72,Debit Card,Pre-booked,3
+9/14/2023,C46,55,Male,Gel Nails,CAD 74.82,E2,86,Mobile Payment,Pre-booked,5
+9/18/2023,C47,24,Male,Acrylic Nails,CAD 136.74,E7,101,Cash,Pre-booked,2
+3/26/2023,C48,50,Male,Gel Nails,CAD 131.39,E1,36,Debit Card,Walk-in,1
+10/17/2023,C49,50,Male,Gel Nails,CAD 98.04,E11,88,Debit Card,Pre-booked,5
+10/4/2023,C50,56,Male,Acrylic Nails,CAD 127.63,E5,64,Cash,Walk-in,4
+12/11/2023,C51,50,Male,Acrylic Nails,CAD 87.10,E5,56,Credit Card,Pre-booked,5
+5/5/2023,C52,63,Male,Gel Nails,CAD 109.21,E3,116,Mobile Payment,Walk-in,4
+7/20/2023,C53,31,Male,Acrylic Nails,CAD 126.48,E5,34,Debit Card,Pre-booked,4
+3/16/2023,C54,53,Male,Acrylic Nails,CAD 72.94,E13,96,Credit Card,Pre-booked,3
+7/16/2023,C55,60,Male,Pedicure,CAD 135.13,E3,66,Credit Card,Walk-in,1
+2/25/2023,C56,34,Female,Gel Nails,CAD 123.14,E1,47,Credit Card,Walk-in,5
+7/29/2023,C57,63,Male,Nail Art,CAD 137.97,E5,61,Credit Card,Pre-booked,1
+6/11/2023,C58,44,Female,Acrylic Nails,CAD 47.48,E12,34,Credit Card,Walk-in,5
+12/9/2023,C59,53,Female,Nail Art,CAD 80.07,E1,115,Cash,Pre-booked,1
+4/11/2023,C60,62,Male,Foot Massage,CAD 120.84,E11,115,Mobile Payment,Pre-booked,4
+10/12/2023,C61,40,Male,Pedicure,CAD 129.38,E15,67,Credit Card,Walk-in,1
+3/4/2023,C62,48,Male,Nail Art,CAD 127.11,E9,86,Mobile Payment,Walk-in,4
+5/14/2023,C63,28,Female,Nail Art,CAD 33.88,E3,73,Cash,Walk-in,1
+12/8/2023,C64,23,Female,Foot Massage,CAD 102.59,E5,57,Debit Card,Walk-in,4
+11/7/2023,C65,35,Female,Nail Art,CAD 112.40,E2,58,Debit Card,Pre-booked,1
+12/24/2023,C66,41,Male,Acrylic Nails,CAD 118.92,E1,90,Mobile Payment,Walk-in,3
+9/15/2023,C67,32,Male,Gel Nails,CAD 111.28,E13,51,Credit Card,Pre-booked,2
+5/8/2023,C68,19,Female,Nail Art,CAD 132.19,E2,78,Debit Card,Pre-booked,5
+11/21/2023,C69,48,Male,Foot Massage,CAD 39.86,E11,61,Credit Card,Walk-in,1
+12/27/2023,C70,62,Female,Gel Nails,CAD 119.11,E15,54,Mobile Payment,Walk-in,3
+8/30/2023,C71,57,Female,Manicure,CAD 79.02,E4,44,Credit Card,Pre-booked,4
+7/12/2023,C72,37,Female,Pedicure,CAD 77.26,E12,81,Cash,Pre-booked,5
+7/6/2023,C73,49,Male,Nail Art,CAD 117.27,E6,48,Credit Card,Pre-booked,5
+10/14/2023,C74,42,Female,Acrylic Nails,CAD 64.34,E5,32,Cash,Walk-in,3
+9/19/2023,C75,48,Male,Pedicure,CAD 107.50,E8,68,Credit Card,Pre-booked,3
+7/14/2023,C76,60,Male,Manicure,CAD 40.25,E4,82,Credit Card,Walk-in,3
+3/20/2023,C77,58,Male,Foot Massage,CAD 90.90,E3,50,Mobile Payment,Pre-booked,3
+11/13/2023,C78,60,Female,Foot Massage,CAD 84.01,E2,44,Mobile Payment,Pre-booked,2
+2/3/2023,C79,20,Female,Foot Massage,CAD 22.15,E5,96,Debit Card,Walk-in,5
+5/6/2023,C80,27,Female,Acrylic Nails,CAD 119.97,E3,111,Cash,Pre-booked,4
+8/4/2023,C81,64,Female,Gel Nails,CAD 71.99,E6,66,Mobile Payment,Walk-in,5
+8/5/2023,C82,45,Male,Gel Nails,CAD 78.16,E2,68,Cash,Pre-booked,3
+1/26/2023,C83,47,Female,Pedicure,CAD 42.91,E12,92,Mobile Payment,Pre-booked,5
+1/9/2023,C84,59,Female,Manicure,CAD 62.29,E13,66,Mobile Payment,Pre-booked,5
+11/20/2023,C85,36,Female,Nail Art,CAD 51.38,E14,69,Credit Card,Walk-in,3
+1/29/2023,C86,41,Female,Foot Massage,CAD 92.47,E15,67,Mobile Payment,Pre-booked,3
+10/3/2023,C87,60,Male,Nail Art,CAD 29.43,E15,116,Credit Card,Walk-in,2
+1/18/2023,C88,29,Male,Acrylic Nails,CAD 99.68,E11,38,Cash,Pre-booked,4
+12/2/2023,C89,50,Male,Manicure,CAD 28.45,E4,86,Cash,Pre-booked,2
+1/21/2023,C90,36,Male,Nail Art,CAD 126.32,E13,79,Credit Card,Pre-booked,4
+1/11/2023,C91,54,Male,Pedicure,CAD 33.93,E9,117,Mobile Payment,Pre-booked,2
+11/2/2023,C92,50,Male,Pedicure,CAD 117.25,E13,66,Mobile Payment,Walk-in,1
+9/25/2023,C93,20,Male,Pedicure,CAD 28.71,E9,101,Cash,Walk-in,5
+7/29/2023,C94,31,Male,Manicure,CAD 83.91,E2,57,Debit Card,Walk-in,1
+7/12/2023,C95,40,Male,Manicure,CAD 63.76,E1,71,Cash,Pre-booked,2
+10/31/2023,C96,60,Male,Nail Art,CAD 113.78,E10,74,Credit Card,Pre-booked,4
+1/19/2023,C97,41,Male,Gel Nails,CAD 22.74,E14,75,Credit Card,Walk-in,3
+9/3/2023,C98,26,Male,Gel Nails,CAD 70.01,E3,81,Mobile Payment,Walk-in,3
+2/21/2023,C99,49,Female,Gel Nails,CAD 72.39,E6,80,Credit Card,Walk-in,3
+9/1/2023,C100,35,Female,Manicure,CAD 41.60,E6,48,Cash,Walk-in,5
+10/14/2023,C101,60,Male,Nail Art,CAD 71.11,E1,84,Credit Card,Pre-booked,4
+8/18/2023,C102,50,Female,Nail Art,CAD 116.45,E2,74,Cash,Walk-in,2
+1/19/2023,C103,31,Female,Foot Massage,CAD 76.61,E14,84,Mobile Payment,Pre-booked,2
+4/23/2023,C104,23,Female,Acrylic Nails,CAD 129.30,E7,90,Debit Card,Pre-booked,3
+10/24/2023,C105,35,Female,Foot Massage,CAD 148.02,E6,108,Mobile Payment,Walk-in,4
+6/29/2023,C106,34,Female,Acrylic Nails,CAD 55.39,E15,81,Mobile Payment,Pre-booked,2
+5/29/2023,C107,60,Female,Gel Nails,CAD 27.41,E1,73,Cash,Pre-booked,4
+9/1/2023,C108,55,Male,Nail Art,CAD 72.38,E14,44,Mobile Payment,Pre-booked,4
+2/7/2023,C109,55,Female,Gel Nails,CAD 54.59,E2,50,Mobile Payment,Walk-in,3
+4/12/2023,C110,51,Male,Gel Nails,CAD 74.57,E13,54,Mobile Payment,Walk-in,3
+9/29/2023,C111,31,Female,Gel Nails,CAD 29.04,E15,30,Mobile Payment,Walk-in,3
+5/23/2023,C112,53,Female,Pedicure,CAD 108.77,E13,39,Cash,Walk-in,2
+5/14/2023,C113,46,Female,Manicure,CAD 62.49,E3,73,Debit Card,Pre-booked,2
+7/4/2023,C114,28,Male,Pedicure,CAD 71.15,E13,108,Cash,Walk-in,3
+12/26/2023,C115,52,Male,Gel Nails,CAD 145.95,E10,54,Credit Card,Pre-booked,2
+1/20/2023,C116,63,Male,Foot Massage,CAD 26.13,E1,112,Mobile Payment,Walk-in,1
+6/30/2023,C117,39,Male,Gel Nails,CAD 32.34,E3,75,Credit Card,Pre-booked,2
+6/26/2023,C118,59,Female,Acrylic Nails,CAD 116.36,E4,108,Debit Card,Walk-in,1
+5/19/2023,C119,36,Female,Acrylic Nails,CAD 39.83,E2,70,Mobile Payment,Pre-booked,3
+1/20/2023,C120,57,Male,Pedicure,CAD 147.48,E12,70,Cash,Pre-booked,3
+7/9/2023,C121,48,Female,Gel Nails,CAD 63.56,E3,73,Mobile Payment,Walk-in,1
+3/3/2023,C122,48,Male,Foot Massage,CAD 127.54,E14,90,Debit Card,Walk-in,1
+12/10/2023,C123,24,Female,Gel Nails,CAD 102.43,E10,31,Cash,Walk-in,1
+5/12/2023,C124,53,Male,Acrylic Nails,CAD 64.80,E13,38,Cash,Pre-booked,1
+9/18/2023,C125,61,Female,Nail Art,CAD 104.47,E1,36,Debit Card,Pre-booked,3
+3/21/2023,C126,61,Female,Acrylic Nails,CAD 92.69,E3,120,Credit Card,Pre-booked,2
+9/15/2023,C127,62,Male,Manicure,CAD 41.23,E2,117,Debit Card,Pre-booked,5
+6/12/2023,C128,57,Female,Foot Massage,CAD 53.02,E6,102,Mobile Payment,Pre-booked,1
+7/7/2023,C129,63,Female,Gel Nails,CAD 94.70,E13,114,Debit Card,Pre-booked,1
+6/10/2023,C130,25,Female,Gel Nails,CAD 39.71,E1,49,Mobile Payment,Walk-in,1
+5/18/2023,C131,30,Male,Acrylic Nails,CAD 63.88,E8,75,Cash,Pre-booked,4
+11/15/2023,C132,29,Male,Manicure,CAD 130.38,E9,30,Debit Card,Walk-in,3
+8/28/2023,C133,32,Male,Acrylic Nails,CAD 141.32,E9,63,Debit Card,Walk-in,1
+12/15/2023,C134,22,Male,Acrylic Nails,CAD 36.18,E8,112,Debit Card,Pre-booked,5
+4/1/2023,C135,53,Male,Manicure,CAD 143.84,E12,100,Credit Card,Walk-in,3
+8/26/2023,C136,35,Female,Nail Art,CAD 51.02,E13,93,Cash,Walk-in,4
+12/5/2023,C137,50,Female,Pedicure,CAD 71.13,E2,80,Mobile Payment,Pre-booked,5
+4/11/2023,C138,54,Male,Pedicure,CAD 45.48,E9,62,Cash,Walk-in,5
+5/1/2023,C139,60,Female,Foot Massage,CAD 53.82,E15,53,Credit Card,Walk-in,5
+4/18/2023,C140,29,Male,Pedicure,CAD 148.12,E2,100,Credit Card,Walk-in,5
+12/14/2023,C141,60,Female,Manicure,CAD 113.80,E10,72,Debit Card,Walk-in,3
+3/29/2023,C142,39,Female,Gel Nails,CAD 73.59,E2,32,Debit Card,Pre-booked,5
+12/17/2023,C143,65,Male,Foot Massage,CAD 55.09,E14,103,Debit Card,Pre-booked,1
+6/6/2023,C144,22,Male,Nail Art,CAD 66.64,E2,115,Credit Card,Walk-in,5
+6/19/2023,C145,23,Female,Acrylic Nails,CAD 128.83,E2,100,Credit Card,Walk-in,3
+9/15/2023,C146,38,Male,Foot Massage,CAD 28.83,E7,46,Debit Card,Walk-in,3
+5/10/2023,C147,42,Male,Gel Nails,CAD 63.07,E13,78,Cash,Pre-booked,2
+3/21/2023,C148,45,Female,Nail Art,CAD 98.95,E15,107,Credit Card,Pre-booked,3
+1/3/2023,C149,55,Male,Nail Art,CAD 44.03,E4,100,Credit Card,Walk-in,4
+6/22/2023,C150,63,Male,Pedicure,CAD 58.65,E5,52,Mobile Payment,Walk-in,5
+1/16/2023,C151,30,Female,Gel Nails,CAD 141.82,E7,76,Credit Card,Pre-booked,1
+9/13/2023,C152,40,Female,Gel Nails,CAD 127.44,E4,105,Credit Card,Walk-in,1
+8/8/2023,C153,30,Female,Gel Nails,CAD 72.32,E3,51,Credit Card,Pre-booked,1
+1/19/2023,C154,42,Female,Manicure,CAD 57.96,E11,56,Cash,Walk-in,2
+8/21/2023,C155,47,Female,Nail Art,CAD 92.10,E6,55,Debit Card,Pre-booked,4
+6/25/2023,C156,35,Female,Nail Art,CAD 105.88,E7,105,Cash,Pre-booked,1
+4/21/2023,C157,24,Female,Foot Massage,CAD 68.62,E15,83,Cash,Walk-in,1
+9/12/2023,C158,42,Male,Acrylic Nails,CAD 39.21,E9,75,Debit Card,Pre-booked,1
+7/12/2023,C159,25,Male,Pedicure,CAD 109.52,E13,31,Debit Card,Pre-booked,1
+7/29/2023,C160,47,Female,Pedicure,CAD 143.29,E11,64,Credit Card,Walk-in,3
+7/28/2023,C161,33,Male,Acrylic Nails,CAD 147.98,E6,112,Mobile Payment,Pre-booked,2
+10/29/2023,C162,30,Male,Acrylic Nails,CAD 32.19,E6,73,Debit Card,Pre-booked,3
+6/27/2023,C163,59,Female,Foot Massage,CAD 45.62,E4,104,Debit Card,Walk-in,1
+1/25/2023,C164,49,Male,Gel Nails,CAD 61.19,E12,102,Credit Card,Walk-in,1
+4/21/2023,C165,53,Female,Manicure,CAD 92.82,E11,47,Cash,Pre-booked,2
+3/13/2023,C166,34,Female,Gel Nails,CAD 121.14,E13,99,Credit Card,Walk-in,4
+4/10/2023,C167,60,Female,Manicure,CAD 30.77,E3,67,Mobile Payment,Walk-in,3
+11/6/2023,C168,34,Male,Foot Massage,CAD 62.66,E13,115,Debit Card,Walk-in,1
+2/12/2023,C169,44,Male,Nail Art,CAD 59.50,E11,104,Cash,Walk-in,5
+2/21/2023,C170,36,Male,Pedicure,CAD 100.19,E3,119,Cash,Pre-booked,1
+8/24/2023,C171,18,Female,Nail Art,CAD 81.45,E14,99,Mobile Payment,Walk-in,5
+8/26/2023,C172,60,Female,Manicure,CAD 120.02,E5,104,Debit Card,Pre-booked,4
+5/30/2023,C173,50,Female,Acrylic Nails,CAD 33.60,E4,99,Debit Card,Pre-booked,3
+6/2/2023,C174,22,Male,Nail Art,CAD 81.28,E5,84,Mobile Payment,Pre-booked,4
+3/6/2023,C175,20,Male,Nail Art,CAD 83.65,E12,93,Credit Card,Walk-in,5
+12/11/2023,C176,29,Male,Manicure,CAD 96.07,E12,92,Cash,Pre-booked,2
+11/18/2023,C177,47,Female,Gel Nails,CAD 142.18,E13,39,Mobile Payment,Pre-booked,4
+12/7/2023,C178,33,Female,Gel Nails,CAD 84.75,E1,68,Mobile Payment,Pre-booked,4
+10/29/2023,C179,59,Female,Pedicure,CAD 145.31,E15,66,Debit Card,Walk-in,4
+7/10/2023,C180,20,Female,Pedicure,CAD 128.74,E15,31,Credit Card,Walk-in,3
+5/4/2023,C181,60,Female,Manicure,CAD 113.83,E2,47,Debit Card,Pre-booked,2
+6/20/2023,C182,31,Female,Gel Nails,CAD 65.55,E9,102,Mobile Payment,Walk-in,5
+6/16/2023,C183,59,Female,Acrylic Nails,CAD 103.95,E12,93,Debit Card,Pre-booked,4
+8/8/2023,C184,19,Male,Foot Massage,CAD 139.96,E5,80,Mobile Payment,Walk-in,2
+6/19/2023,C185,45,Female,Acrylic Nails,CAD 58.98,E11,54,Debit Card,Walk-in,1
+10/17/2023,C186,26,Female,Nail Art,CAD 112.35,E12,64,Credit Card,Pre-booked,5
+8/5/2023,C187,51,Male,Manicure,CAD 47.32,E9,112,Mobile Payment,Pre-booked,2
+11/20/2023,C188,60,Female,Acrylic Nails,CAD 43.85,E15,118,Credit Card,Walk-in,5
+12/8/2023,C189,21,Male,Gel Nails,CAD 112.00,E12,38,Cash,Pre-booked,2
+5/14/2023,C190,32,Male,Foot Massage,CAD 110.85,E6,83,Mobile Payment,Pre-booked,2
+5/2/2023,C191,23,Female,Acrylic Nails,CAD 81.74,E8,45,Cash,Walk-in,5
+7/7/2023,C192,32,Male,Acrylic Nails,CAD 145.46,E6,34,Mobile Payment,Walk-in,5
+3/15/2023,C193,23,Female,Foot Massage,CAD 111.98,E8,115,Credit Card,Pre-booked,2
+9/29/2023,C194,24,Male,Foot Massage,CAD 106.64,E15,110,Debit Card,Walk-in,4
+6/13/2023,C195,63,Female,Gel Nails,CAD 68.99,E15,96,Mobile Payment,Walk-in,3
+12/27/2023,C196,58,Male,Gel Nails,CAD 123.22,E6,103,Credit Card,Walk-in,5
+3/26/2023,C197,25,Male,Gel Nails,CAD 147.23,E11,39,Cash,Walk-in,1
+8/3/2023,C198,62,Female,Gel Nails,CAD 106.59,E13,85,Cash,Pre-booked,4
+12/23/2023,C199,53,Female,Nail Art,CAD 122.05,E7,47,Cash,Pre-booked,3
+10/17/2023,C200,57,Male,Manicure,CAD 26.12,E13,109,Debit Card,Walk-in,5
+1/24/2023,C201,59,Female,Pedicure,CAD 126.89,E2,61,Cash,Walk-in,3
+1/13/2023,C202,33,Male,Gel Nails,CAD 127.76,E13,93,Mobile Payment,Walk-in,3
+10/2/2023,C203,44,Male,Foot Massage,CAD 45.27,E1,74,Credit Card,Pre-booked,3
+6/24/2023,C204,43,Female,Foot Massage,CAD 54.55,E1,99,Debit Card,Walk-in,5
+1/12/2023,C205,41,Female,Pedicure,CAD 132.19,E9,112,Debit Card,Walk-in,4
+12/3/2023,C206,41,Female,Nail Art,CAD 41.98,E5,111,Cash,Pre-booked,1
+9/19/2023,C207,27,Male,Manicure,CAD 129.03,E2,63,Credit Card,Pre-booked,3
+10/13/2023,C208,27,Female,Gel Nails,CAD 38.42,E15,41,Mobile Payment,Pre-booked,4
+12/15/2023,C209,22,Male,Pedicure,CAD 61.35,E15,69,Cash,Walk-in,2
+1/23/2023,C210,28,Male,Manicure,CAD 21.34,E9,79,Mobile Payment,Pre-booked,4
+10/13/2023,C211,24,Female,Manicure,CAD 74.79,E8,118,Mobile Payment,Pre-booked,3
+6/13/2023,C212,58,Male,Nail Art,CAD 103.86,E11,34,Credit Card,Pre-booked,3
+2/28/2023,C213,30,Female,Acrylic Nails,CAD 28.07,E3,33,Credit Card,Walk-in,2
+5/16/2023,C214,55,Male,Foot Massage,CAD 123.96,E12,42,Credit Card,Pre-booked,3
+10/31/2023,C215,36,Female,Manicure,CAD 86.12,E6,112,Credit Card,Pre-booked,5
+7/11/2023,C216,42,Male,Foot Massage,CAD 111.96,E9,51,Mobile Payment,Pre-booked,4
+7/18/2023,C217,34,Male,Pedicure,CAD 66.86,E5,114,Mobile Payment,Walk-in,1
+4/23/2023,C218,25,Male,Foot Massage,CAD 73.09,E15,51,Credit Card,Walk-in,5
+3/13/2023,C219,18,Female,Acrylic Nails,CAD 120.72,E6,97,Mobile Payment,Pre-booked,4
+4/18/2023,C220,58,Male,Foot Massage,CAD 82.99,E11,33,Cash,Pre-booked,3
+5/22/2023,C221,36,Male,Manicure,CAD 119.07,E4,72,Debit Card,Pre-booked,4
+2/9/2023,C222,31,Male,Nail Art,CAD 117.60,E7,33,Cash,Pre-booked,5
+4/12/2023,C223,45,Male,Foot Massage,CAD 79.92,E8,110,Debit Card,Walk-in,5
+12/22/2023,C224,28,Female,Foot Massage,CAD 148.52,E6,55,Debit Card,Walk-in,3
+11/22/2023,C225,44,Female,Manicure,CAD 121.66,E2,38,Debit Card,Walk-in,5
+1/13/2023,C226,42,Female,Acrylic Nails,CAD 45.64,E13,114,Debit Card,Walk-in,3
+3/1/2023,C227,30,Male,Foot Massage,CAD 100.24,E12,118,Debit Card,Pre-booked,3
+8/19/2023,C228,41,Female,Manicure,CAD 29.60,E8,89,Credit Card,Walk-in,3
+6/3/2023,C229,24,Male,Acrylic Nails,CAD 60.80,E7,30,Credit Card,Walk-in,5
+11/15/2023,C230,29,Male,Acrylic Nails,CAD 46.67,E12,41,Debit Card,Walk-in,2
+6/10/2023,C231,31,Female,Pedicure,CAD 110.13,E2,56,Debit Card,Pre-booked,4
+9/29/2023,C232,57,Male,Manicure,CAD 84.90,E15,116,Mobile Payment,Pre-booked,2
+7/8/2023,C233,56,Female,Acrylic Nails,CAD 85.39,E13,106,Mobile Payment,Pre-booked,3
+3/26/2023,C234,53,Male,Nail Art,CAD 64.73,E3,63,Debit Card,Pre-booked,3
+11/5/2023,C235,54,Female,Foot Massage,CAD 32.05,E14,63,Cash,Walk-in,1
+12/22/2023,C236,29,Male,Gel Nails,CAD 53.60,E12,82,Cash,Pre-booked,5
+4/1/2023,C237,26,Male,Manicure,CAD 43.01,E4,100,Debit Card,Walk-in,1
+6/29/2023,C238,48,Female,Foot Massage,CAD 58.46,E6,37,Cash,Walk-in,3
+1/2/2023,C239,61,Female,Nail Art,CAD 115.69,E15,62,Credit Card,Pre-booked,2
+1/15/2023,C240,53,Female,Foot Massage,CAD 95.00,E12,57,Debit Card,Walk-in,1
+12/13/2023,C241,40,Male,Foot Massage,CAD 106.59,E6,74,Mobile Payment,Walk-in,3
+10/4/2023,C242,26,Female,Gel Nails,CAD 123.73,E10,68,Debit Card,Pre-booked,5
+4/14/2023,C243,52,Female,Manicure,CAD 141.06,E15,41,Credit Card,Walk-in,4
+7/27/2023,C244,41,Male,Acrylic Nails,CAD 88.43,E2,60,Cash,Pre-booked,4
+3/17/2023,C245,27,Female,Manicure,CAD 111.84,E12,74,Cash,Pre-booked,4
+9/23/2023,C246,18,Female,Manicure,CAD 72.75,E4,52,Debit Card,Pre-booked,2
+7/20/2023,C247,40,Male,Manicure,CAD 97.39,E13,51,Cash,Pre-booked,3
+7/23/2023,C248,40,Female,Gel Nails,CAD 20.80,E1,105,Debit Card,Pre-booked,1
+2/13/2023,C249,23,Male,Foot Massage,CAD 149.85,E15,103,Debit Card,Walk-in,5
+9/12/2023,C250,44,Male,Pedicure,CAD 49.95,E11,95,Debit Card,Pre-booked,4
+5/3/2023,C251,18,Female,Acrylic Nails,CAD 119.14,E12,88,Mobile Payment,Pre-booked,1
+5/9/2023,C252,35,Female,Nail Art,CAD 148.27,E5,93,Mobile Payment,Pre-booked,2
+5/24/2023,C253,58,Female,Pedicure,CAD 51.40,E5,52,Debit Card,Pre-booked,3
+1/1/2023,C254,24,Female,Manicure,CAD 146.36,E13,72,Credit Card,Pre-booked,1
+9/14/2023,C255,24,Female,Foot Massage,CAD 104.25,E2,118,Credit Card,Pre-booked,4
+10/15/2023,C256,63,Female,Manicure,CAD 124.38,E10,115,Mobile Payment,Walk-in,4
+1/27/2023,C257,30,Male,Pedicure,CAD 23.07,E10,89,Credit Card,Pre-booked,4
+3/4/2023,C258,56,Female,Pedicure,CAD 118.76,E10,35,Debit Card,Walk-in,2
+10/2/2023,C259,65,Male,Nail Art,CAD 116.66,E4,31,Credit Card,Pre-booked,2
+7/6/2023,C260,43,Female,Manicure,CAD 81.27,E8,111,Mobile Payment,Walk-in,1
+3/4/2023,C261,31,Male,Gel Nails,CAD 103.15,E1,79,Mobile Payment,Pre-booked,4
+9/24/2023,C262,25,Female,Acrylic Nails,CAD 75.14,E1,98,Mobile Payment,Pre-booked,2
+7/19/2023,C263,62,Male,Pedicure,CAD 137.11,E15,66,Credit Card,Walk-in,3
+10/5/2023,C264,54,Female,Manicure,CAD 95.53,E11,72,Debit Card,Walk-in,2
+11/27/2023,C265,19,Female,Gel Nails,CAD 94.03,E11,36,Credit Card,Pre-booked,1
+5/14/2023,C266,27,Female,Manicure,CAD 84.16,E9,63,Debit Card,Pre-booked,2
+10/2/2023,C267,57,Male,Pedicure,CAD 133.45,E2,97,Credit Card,Pre-booked,2
+1/20/2023,C268,22,Female,Pedicure,CAD 54.49,E5,71,Mobile Payment,Pre-booked,2
+12/31/2023,C269,59,Male,Acrylic Nails,CAD 65.57,E1,106,Cash,Walk-in,1
+1/6/2023,C270,28,Male,Foot Massage,CAD 93.38,E1,94,Debit Card,Walk-in,5
+12/10/2023,C271,60,Female,Manicure,CAD 129.16,E1,103,Credit Card,Pre-booked,1
+1/13/2023,C272,56,Male,Foot Massage,CAD 20.31,E10,51,Debit Card,Pre-booked,2
+1/28/2023,C273,37,Female,Acrylic Nails,CAD 129.21,E2,86,Cash,Pre-booked,4
+3/28/2023,C274,60,Female,Manicure,CAD 129.13,E3,109,Debit Card,Walk-in,2
+10/20/2023,C275,58,Male,Pedicure,CAD 89.72,E6,35,Mobile Payment,Pre-booked,4
+10/4/2023,C276,20,Male,Manicure,CAD 47.38,E15,77,Cash,Pre-booked,4
+1/4/2023,C277,26,Female,Gel Nails,CAD 97.25,E15,60,Cash,Pre-booked,4
+9/27/2023,C278,43,Female,Foot Massage,CAD 40.49,E15,111,Mobile Payment,Walk-in,3
+9/14/2023,C279,40,Female,Foot Massage,CAD 42.76,E9,69,Debit Card,Walk-in,2
+9/24/2023,C280,64,Male,Nail Art,CAD 127.68,E6,92,Mobile Payment,Pre-booked,5
+2/23/2023,C281,38,Male,Gel Nails,CAD 143.13,E12,90,Debit Card,Walk-in,3
+6/16/2023,C282,27,Male,Manicure,CAD 127.18,E4,90,Mobile Payment,Walk-in,2
+3/31/2023,C283,22,Male,Acrylic Nails,CAD 26.42,E9,118,Mobile Payment,Pre-booked,4
+4/7/2023,C284,58,Male,Manicure,CAD 141.96,E6,47,Cash,Walk-in,2
+1/12/2023,C285,62,Male,Manicure,CAD 120.12,E15,108,Debit Card,Pre-booked,3
+7/11/2023,C286,26,Female,Nail Art,CAD 112.04,E3,54,Credit Card,Pre-booked,1
+7/2/2023,C287,27,Female,Gel Nails,CAD 91.25,E15,99,Mobile Payment,Pre-booked,3
+11/14/2023,C288,28,Male,Gel Nails,CAD 62.51,E13,63,Cash,Pre-booked,3
+7/3/2023,C289,25,Female,Pedicure,CAD 99.21,E15,38,Mobile Payment,Pre-booked,5
+7/5/2023,C290,25,Female,Pedicure,CAD 141.18,E13,31,Debit Card,Walk-in,3
+12/6/2023,C291,20,Male,Foot Massage,CAD 97.52,E8,81,Mobile Payment,Pre-booked,4
+6/13/2023,C292,56,Female,Gel Nails,CAD 39.65,E1,39,Cash,Walk-in,3
+12/26/2023,C293,53,Male,Gel Nails,CAD 69.23,E1,106,Cash,Pre-booked,4
+6/4/2023,C294,31,Female,Gel Nails,CAD 134.12,E1,112,Cash,Walk-in,1
+5/30/2023,C295,22,Male,Gel Nails,CAD 65.13,E2,47,Cash,Walk-in,2
+5/7/2023,C296,49,Male,Foot Massage,CAD 110.71,E13,113,Debit Card,Pre-booked,3
+1/3/2023,C297,59,Male,Nail Art,CAD 32.59,E8,103,Debit Card,Walk-in,2
+6/10/2023,C298,53,Female,Manicure,CAD 115.48,E9,89,Cash,Walk-in,4
+9/14/2023,C299,64,Male,Pedicure,CAD 43.17,E15,47,Debit Card,Walk-in,2
+12/12/2023,C300,20,Male,Nail Art,CAD 144.70,E7,89,Credit Card,Walk-in,3
+7/2/2023,C301,23,Female,Foot Massage,CAD 54.44,E5,90,Cash,Pre-booked,1
+10/22/2023,C302,28,Female,Pedicure,CAD 35.54,E15,85,Cash,Pre-booked,4
+6/6/2023,C303,33,Female,Nail Art,CAD 118.29,E15,33,Mobile Payment,Pre-booked,4
+7/22/2023,C304,32,Female,Nail Art,CAD 143.11,E6,104,Cash,Walk-in,3
+8/23/2023,C305,35,Male,Foot Massage,CAD 47.06,E1,78,Credit Card,Pre-booked,2
+2/11/2023,C306,31,Male,Gel Nails,CAD 55.25,E10,36,Credit Card,Walk-in,4
+4/6/2023,C307,58,Female,Pedicure,CAD 39.94,E11,94,Cash,Walk-in,3
+9/7/2023,C308,52,Female,Nail Art,CAD 28.21,E2,48,Debit Card,Pre-booked,1
+9/3/2023,C309,22,Male,Nail Art,CAD 27.42,E1,101,Cash,Pre-booked,3
+12/24/2023,C310,60,Male,Nail Art,CAD 111.02,E3,64,Mobile Payment,Pre-booked,4
+11/2/2023,C311,62,Male,Pedicure,CAD 110.59,E6,94,Mobile Payment,Walk-in,1
+6/9/2023,C312,20,Male,Acrylic Nails,CAD 74.42,E6,104,Debit Card,Walk-in,3
+7/12/2023,C313,29,Male,Gel Nails,CAD 40.78,E13,58,Debit Card,Walk-in,3
+3/23/2023,C314,28,Male,Nail Art,CAD 23.84,E11,48,Debit Card,Pre-booked,4
+6/28/2023,C315,47,Female,Nail Art,CAD 122.56,E5,52,Credit Card,Pre-booked,5
+6/30/2023,C316,62,Male,Manicure,CAD 118.36,E10,56,Mobile Payment,Pre-booked,1
+6/17/2023,C317,38,Male,Pedicure,CAD 99.96,E7,47,Mobile Payment,Walk-in,5
+12/31/2023,C318,54,Male,Nail Art,CAD 38.27,E15,100,Credit Card,Walk-in,4
+8/13/2023,C319,56,Male,Acrylic Nails,CAD 27.68,E15,33,Debit Card,Pre-booked,1
+2/4/2023,C320,19,Female,Acrylic Nails,CAD 34.33,E6,48,Credit Card,Pre-booked,5
+11/9/2023,C321,43,Female,Gel Nails,CAD 74.32,E15,88,Credit Card,Walk-in,1
+7/20/2023,C322,23,Female,Gel Nails,CAD 74.10,E13,113,Cash,Pre-booked,3
+2/20/2023,C323,58,Male,Gel Nails,CAD 34.59,E15,99,Mobile Payment,Pre-booked,4
+1/23/2023,C324,53,Female,Nail Art,CAD 25.73,E5,79,Cash,Pre-booked,5
+11/24/2023,C325,21,Male,Nail Art,CAD 146.85,E1,99,Debit Card,Pre-booked,1
+5/11/2023,C326,19,Male,Manicure,CAD 96.76,E6,34,Cash,Pre-booked,3
+10/24/2023,C327,37,Female,Nail Art,CAD 93.70,E15,77,Mobile Payment,Pre-booked,5
+7/24/2023,C328,59,Female,Acrylic Nails,CAD 73.29,E10,34,Credit Card,Pre-booked,2
+6/15/2023,C329,61,Male,Gel Nails,CAD 85.17,E4,63,Cash,Walk-in,2
+12/3/2023,C330,32,Female,Gel Nails,CAD 24.53,E6,101,Debit Card,Pre-booked,2
+10/24/2023,C331,37,Female,Pedicure,CAD 144.87,E8,62,Mobile Payment,Pre-booked,4
+5/21/2023,C332,64,Male,Acrylic Nails,CAD 91.64,E15,33,Credit Card,Walk-in,1
+3/9/2023,C333,64,Female,Foot Massage,CAD 147.17,E9,30,Credit Card,Walk-in,1
+7/28/2023,C334,30,Male,Nail Art,CAD 76.60,E11,51,Mobile Payment,Walk-in,5
+7/19/2023,C335,39,Female,Nail Art,CAD 125.59,E3,47,Cash,Walk-in,5
+8/29/2023,C336,20,Male,Manicure,CAD 126.03,E12,65,Cash,Walk-in,4
+10/26/2023,C337,23,Male,Nail Art,CAD 55.81,E3,62,Mobile Payment,Walk-in,4
+2/14/2023,C338,57,Male,Pedicure,CAD 55.98,E3,59,Credit Card,Walk-in,5
+3/12/2023,C339,46,Male,Foot Massage,CAD 96.57,E10,72,Cash,Walk-in,2
+2/12/2023,C340,33,Female,Nail Art,CAD 104.58,E3,70,Mobile Payment,Walk-in,1
+11/7/2023,C341,41,Male,Pedicure,CAD 59.49,E11,82,Cash,Walk-in,4
+7/22/2023,C342,42,Female,Manicure,CAD 140.80,E14,39,Mobile Payment,Pre-booked,4
+2/16/2023,C343,28,Female,Manicure,CAD 49.08,E4,85,Credit Card,Pre-booked,2
+7/17/2023,C344,31,Female,Acrylic Nails,CAD 29.85,E4,104,Credit Card,Pre-booked,2
+3/3/2023,C345,42,Female,Gel Nails,CAD 89.77,E2,32,Credit Card,Walk-in,2
+7/30/2023,C346,24,Male,Pedicure,CAD 54.60,E8,119,Cash,Pre-booked,2
+6/4/2023,C347,24,Female,Gel Nails,CAD 55.25,E6,43,Mobile Payment,Pre-booked,1
+4/19/2023,C348,60,Male,Gel Nails,CAD 101.14,E9,56,Debit Card,Pre-booked,1
+4/29/2023,C349,50,Male,Gel Nails,CAD 25.94,E7,79,Credit Card,Pre-booked,3
+12/8/2023,C350,65,Male,Pedicure,CAD 53.37,E15,43,Credit Card,Pre-booked,2
+2/10/2023,C351,31,Male,Pedicure,CAD 52.89,E15,45,Cash,Walk-in,4
+10/27/2023,C352,65,Male,Foot Massage,CAD 126.19,E1,116,Credit Card,Pre-booked,5
+1/15/2023,C353,34,Male,Foot Massage,CAD 39.12,E15,118,Cash,Pre-booked,4
+4/16/2023,C354,23,Male,Acrylic Nails,CAD 82.08,E8,82,Credit Card,Walk-in,5
+3/22/2023,C355,41,Female,Acrylic Nails,CAD 45.48,E11,95,Mobile Payment,Walk-in,2
+5/27/2023,C356,65,Male,Acrylic Nails,CAD 78.24,E10,99,Credit Card,Walk-in,5
+12/12/2023,C357,18,Female,Gel Nails,CAD 25.17,E11,64,Cash,Walk-in,3
+8/10/2023,C358,58,Female,Foot Massage,CAD 108.31,E14,48,Cash,Pre-booked,1
+2/4/2023,C359,26,Female,Gel Nails,CAD 56.32,E8,93,Credit Card,Pre-booked,2
+4/21/2023,C360,40,Female,Acrylic Nails,CAD 43.39,E3,49,Cash,Pre-booked,1
+11/17/2023,C361,63,Female,Nail Art,CAD 75.76,E8,101,Credit Card,Pre-booked,4
+7/6/2023,C362,38,Male,Manicure,CAD 91.85,E8,53,Debit Card,Pre-booked,3
+11/26/2023,C363,41,Male,Gel Nails,CAD 132.24,E7,70,Mobile Payment,Pre-booked,5
+7/29/2023,C364,46,Male,Pedicure,CAD 45.63,E14,63,Cash,Walk-in,4
+6/13/2023,C365,40,Female,Acrylic Nails,CAD 77.63,E2,52,Credit Card,Walk-in,3
+2/15/2023,C366,54,Female,Foot Massage,CAD 96.95,E11,84,Mobile Payment,Walk-in,5
+4/29/2023,C367,24,Female,Nail Art,CAD 104.64,E10,104,Cash,Walk-in,3
+9/27/2023,C368,53,Male,Manicure,CAD 95.78,E4,116,Credit Card,Walk-in,2
+7/3/2023,C369,64,Female,Acrylic Nails,CAD 82.71,E3,46,Credit Card,Pre-booked,3
+6/25/2023,C370,59,Female,Foot Massage,CAD 81.99,E12,106,Cash,Walk-in,3
+11/16/2023,C371,21,Male,Foot Massage,CAD 140.74,E3,50,Debit Card,Pre-booked,2
+4/20/2023,C372,31,Female,Acrylic Nails,CAD 36.98,E12,62,Mobile Payment,Walk-in,1
+8/1/2023,C373,33,Female,Gel Nails,CAD 138.93,E15,105,Cash,Pre-booked,1
+7/8/2023,C374,29,Male,Gel Nails,CAD 135.45,E8,68,Credit Card,Walk-in,4
+6/12/2023,C375,29,Male,Manicure,CAD 125.22,E9,75,Debit Card,Pre-booked,4
+2/18/2023,C376,23,Female,Gel Nails,CAD 85.74,E7,54,Credit Card,Walk-in,4
+9/2/2023,C377,26,Female,Foot Massage,CAD 59.53,E12,109,Cash,Pre-booked,2
+12/19/2023,C378,51,Male,Pedicure,CAD 86.85,E13,52,Debit Card,Pre-booked,5
+8/12/2023,C379,45,Female,Manicure,CAD 91.68,E13,64,Debit Card,Walk-in,4
+4/22/2023,C380,19,Male,Acrylic Nails,CAD 118.28,E7,38,Cash,Walk-in,1
+8/2/2023,C381,48,Female,Nail Art,CAD 141.77,E14,75,Mobile Payment,Walk-in,1
+6/9/2023,C382,36,Male,Acrylic Nails,CAD 80.15,E2,76,Mobile Payment,Pre-booked,1
+12/25/2023,C383,61,Male,Manicure,CAD 147.14,E1,82,Debit Card,Pre-booked,2
+1/1/2023,C384,36,Female,Foot Massage,CAD 35.78,E2,108,Cash,Pre-booked,2
+8/1/2023,C385,46,Male,Manicure,CAD 50.18,E5,119,Mobile Payment,Walk-in,3
+8/18/2023,C386,58,Male,Gel Nails,CAD 108.02,E6,118,Credit Card,Pre-booked,5
+11/17/2023,C387,59,Female,Acrylic Nails,CAD 47.07,E15,51,Cash,Walk-in,2
+1/25/2023,C388,50,Male,Pedicure,CAD 24.96,E14,53,Cash,Walk-in,5
+12/19/2023,C389,63,Male,Foot Massage,CAD 61.66,E6,66,Credit Card,Pre-booked,4
+12/31/2023,C390,65,Male,Acrylic Nails,CAD 37.71,E11,46,Mobile Payment,Pre-booked,1
+5/12/2023,C391,45,Female,Manicure,CAD 35.29,E12,85,Mobile Payment,Walk-in,3
+8/12/2023,C392,30,Female,Gel Nails,CAD 87.61,E6,67,Cash,Walk-in,5
+8/6/2023,C393,57,Female,Manicure,CAD 64.01,E14,66,Cash,Walk-in,1
+6/14/2023,C394,28,Female,Foot Massage,CAD 83.34,E3,35,Cash,Walk-in,2
+8/29/2023,C395,36,Female,Gel Nails,CAD 63.35,E3,72,Debit Card,Walk-in,1
+9/15/2023,C396,39,Female,Gel Nails,CAD 137.33,E12,71,Credit Card,Walk-in,5
+12/15/2023,C397,58,Male,Acrylic Nails,CAD 50.73,E3,38,Debit Card,Walk-in,1
+7/31/2023,C398,46,Female,Manicure,CAD 134.06,E3,81,Cash,Walk-in,5
+11/7/2023,C399,64,Female,Acrylic Nails,CAD 44.78,E2,87,Debit Card,Walk-in,2
+8/13/2023,C400,31,Male,Gel Nails,CAD 89.86,E2,90,Cash,Pre-booked,2
+8/16/2023,C401,51,Male,Foot Massage,CAD 76.39,E7,90,Credit Card,Pre-booked,2
+9/8/2023,C402,65,Male,Gel Nails,CAD 102.03,E3,42,Credit Card,Pre-booked,2
+1/5/2023,C403,37,Female,Foot Massage,CAD 54.36,E9,73,Credit Card,Pre-booked,4
+11/18/2023,C404,65,Male,Pedicure,CAD 126.70,E14,82,Credit Card,Walk-in,4
+2/14/2023,C405,23,Female,Manicure,CAD 98.98,E13,60,Mobile Payment,Walk-in,4
+10/10/2023,C406,40,Male,Pedicure,CAD 95.04,E3,98,Debit Card,Pre-booked,5
+9/17/2023,C407,62,Female,Manicure,CAD 76.34,E8,57,Credit Card,Walk-in,1
+2/26/2023,C408,32,Male,Gel Nails,CAD 139.66,E7,39,Mobile Payment,Walk-in,3
+4/12/2023,C409,20,Female,Acrylic Nails,CAD 141.14,E2,83,Mobile Payment,Pre-booked,5
+7/9/2023,C410,34,Male,Pedicure,CAD 128.56,E7,59,Cash,Walk-in,5
+12/7/2023,C411,44,Male,Pedicure,CAD 122.14,E3,75,Mobile Payment,Walk-in,2
+12/16/2023,C412,40,Female,Nail Art,CAD 96.97,E10,33,Credit Card,Pre-booked,3
+3/9/2023,C413,43,Female,Nail Art,CAD 131.80,E3,35,Cash,Walk-in,5
+9/19/2023,C414,57,Female,Acrylic Nails,CAD 139.60,E11,57,Cash,Walk-in,2
+9/23/2023,C415,45,Male,Pedicure,CAD 131.75,E15,112,Credit Card,Pre-booked,2
+4/23/2023,C416,23,Female,Gel Nails,CAD 138.12,E10,45,Debit Card,Walk-in,2
+9/26/2023,C417,25,Female,Manicure,CAD 22.25,E2,88,Credit Card,Pre-booked,3
+12/6/2023,C418,43,Female,Nail Art,CAD 134.38,E2,119,Cash,Walk-in,2
+2/19/2023,C419,60,Female,Acrylic Nails,CAD 59.03,E10,102,Mobile Payment,Walk-in,2
+3/16/2023,C420,41,Female,Manicure,CAD 23.66,E11,65,Debit Card,Pre-booked,5
+10/25/2023,C421,18,Female,Pedicure,CAD 75.15,E9,115,Credit Card,Walk-in,3
+10/14/2023,C422,64,Male,Gel Nails,CAD 70.41,E8,84,Debit Card,Pre-booked,5
+7/11/2023,C423,49,Female,Pedicure,CAD 36.33,E3,78,Mobile Payment,Walk-in,5
+7/2/2023,C424,20,Male,Gel Nails,CAD 67.16,E8,115,Credit Card,Pre-booked,2
+6/12/2023,C425,58,Female,Pedicure,CAD 142.24,E9,56,Debit Card,Walk-in,3
+9/9/2023,C426,34,Female,Pedicure,CAD 44.57,E3,95,Credit Card,Walk-in,5
+10/12/2023,C427,24,Female,Gel Nails,CAD 80.99,E3,103,Cash,Pre-booked,4
+4/9/2023,C428,25,Male,Foot Massage,CAD 90.05,E2,104,Debit Card,Pre-booked,5
+5/8/2023,C429,61,Female,Gel Nails,CAD 85.92,E5,71,Mobile Payment,Pre-booked,2
+4/2/2023,C430,51,Female,Gel Nails,CAD 120.57,E10,105,Debit Card,Walk-in,4
+5/3/2023,C431,43,Female,Foot Massage,CAD 55.63,E12,104,Mobile Payment,Pre-booked,4
+3/31/2023,C432,36,Male,Manicure,CAD 78.78,E14,118,Credit Card,Pre-booked,5
+12/3/2023,C433,30,Male,Acrylic Nails,CAD 42.78,E6,101,Cash,Pre-booked,1
+3/5/2023,C434,40,Male,Nail Art,CAD 129.06,E11,43,Cash,Pre-booked,1
+6/25/2023,C435,57,Male,Acrylic Nails,CAD 102.97,E3,66,Debit Card,Pre-booked,2
+11/27/2023,C436,43,Female,Foot Massage,CAD 22.54,E9,83,Debit Card,Pre-booked,4
+2/6/2023,C437,42,Female,Manicure,CAD 51.19,E1,105,Debit Card,Pre-booked,4
+12/26/2023,C438,47,Female,Foot Massage,CAD 102.25,E1,98,Debit Card,Walk-in,1
+4/17/2023,C439,44,Male,Manicure,CAD 75.76,E12,73,Mobile Payment,Walk-in,5
+1/1/2023,C440,59,Male,Nail Art,CAD 122.56,E11,55,Credit Card,Walk-in,1
+3/15/2023,C441,49,Male,Pedicure,CAD 87.42,E3,62,Mobile Payment,Pre-booked,5
+7/18/2023,C442,54,Male,Foot Massage,CAD 22.55,E1,108,Debit Card,Pre-booked,4
+2/11/2023,C443,32,Male,Foot Massage,CAD 121.17,E13,73,Debit Card,Pre-booked,4
+11/10/2023,C444,24,Female,Pedicure,CAD 134.63,E4,55,Debit Card,Walk-in,4
+1/31/2023,C445,42,Male,Manicure,CAD 97.82,E2,32,Mobile Payment,Walk-in,5
+8/22/2023,C446,65,Male,Pedicure,CAD 97.37,E3,47,Cash,Walk-in,4
+6/24/2023,C447,20,Male,Gel Nails,CAD 111.32,E8,105,Cash,Walk-in,5
+8/14/2023,C448,48,Female,Acrylic Nails,CAD 118.08,E3,97,Cash,Walk-in,2
+12/5/2023,C449,39,Male,Foot Massage,CAD 42.18,E10,77,Mobile Payment,Pre-booked,1
+8/2/2023,C450,28,Female,Gel Nails,CAD 84.37,E15,51,Cash,Pre-booked,2
+2/24/2023,C451,48,Female,Manicure,CAD 55.04,E12,89,Credit Card,Walk-in,2
+12/30/2023,C452,31,Female,Acrylic Nails,CAD 57.35,E15,84,Debit Card,Walk-in,3
+1/30/2023,C453,20,Female,Nail Art,CAD 22.69,E4,79,Credit Card,Walk-in,2
+8/12/2023,C454,33,Male,Manicure,CAD 27.28,E13,34,Credit Card,Pre-booked,3
+3/24/2023,C455,37,Female,Foot Massage,CAD 123.30,E4,76,Debit Card,Walk-in,2
+5/5/2023,C456,35,Male,Manicure,CAD 112.50,E6,61,Cash,Walk-in,5
+12/31/2023,C457,56,Male,Gel Nails,CAD 122.28,E15,93,Mobile Payment,Walk-in,4
+2/4/2023,C458,20,Female,Foot Massage,CAD 116.69,E1,50,Mobile Payment,Walk-in,3
+12/14/2023,C459,19,Female,Manicure,CAD 82.95,E9,113,Mobile Payment,Pre-booked,1
+5/30/2023,C460,26,Female,Acrylic Nails,CAD 134.27,E1,112,Credit Card,Pre-booked,2
+2/6/2023,C461,38,Female,Nail Art,CAD 52.00,E6,94,Mobile Payment,Walk-in,1
+6/15/2023,C462,44,Male,Nail Art,CAD 25.03,E1,62,Mobile Payment,Pre-booked,3
+7/1/2023,C463,47,Male,Nail Art,CAD 110.39,E2,100,Credit Card,Walk-in,3
+5/11/2023,C464,24,Male,Pedicure,CAD 105.88,E5,44,Cash,Pre-booked,4
+12/22/2023,C465,49,Female,Acrylic Nails,CAD 124.61,E14,101,Debit Card,Walk-in,1
+7/26/2023,C466,42,Female,Pedicure,CAD 108.41,E8,87,Mobile Payment,Pre-booked,2
+5/16/2023,C467,50,Male,Pedicure,CAD 96.66,E2,45,Cash,Walk-in,2
+11/1/2023,C468,28,Male,Acrylic Nails,CAD 120.30,E4,119,Mobile Payment,Pre-booked,4
+8/4/2023,C469,61,Male,Gel Nails,CAD 108.50,E5,109,Cash,Walk-in,2
+7/20/2023,C470,29,Male,Foot Massage,CAD 82.53,E7,42,Debit Card,Pre-booked,2
+9/28/2023,C471,54,Female,Gel Nails,CAD 131.41,E14,53,Mobile Payment,Walk-in,1
+4/13/2023,C472,48,Female,Foot Massage,CAD 115.41,E4,109,Debit Card,Walk-in,1
+2/12/2023,C473,50,Male,Gel Nails,CAD 35.45,E7,98,Cash,Walk-in,3
+10/31/2023,C474,22,Male,Foot Massage,CAD 39.35,E5,54,Debit Card,Pre-booked,1
+3/10/2023,C475,43,Female,Pedicure,CAD 140.84,E5,87,Cash,Walk-in,2
+6/2/2023,C476,45,Female,Gel Nails,CAD 21.35,E9,106,Cash,Pre-booked,3
+5/17/2023,C477,19,Female,Nail Art,CAD 66.92,E8,47,Credit Card,Walk-in,2
+12/22/2023,C478,40,Female,Nail Art,CAD 54.57,E3,48,Debit Card,Pre-booked,3
+11/6/2023,C479,50,Male,Acrylic Nails,CAD 44.79,E15,45,Debit Card,Walk-in,2
+2/10/2023,C480,53,Female,Gel Nails,CAD 70.01,E6,109,Debit Card,Walk-in,5
+3/15/2023,C481,56,Female,Nail Art,CAD 37.49,E7,73,Debit Card,Pre-booked,2
+7/6/2023,C482,64,Male,Acrylic Nails,CAD 27.60,E5,115,Debit Card,Walk-in,4
+10/11/2023,C483,27,Female,Foot Massage,CAD 58.85,E12,104,Cash,Pre-booked,1
+7/27/2023,C484,65,Female,Foot Massage,CAD 48.68,E13,36,Credit Card,Walk-in,3
+3/15/2023,C485,28,Female,Foot Massage,CAD 112.55,E10,74,Cash,Walk-in,5
+11/2/2023,C486,64,Male,Pedicure,CAD 127.47,E9,107,Cash,Walk-in,5
+3/6/2023,C487,29,Female,Manicure,CAD 42.36,E3,85,Cash,Walk-in,3
+6/1/2023,C488,51,Female,Gel Nails,CAD 101.12,E4,65,Mobile Payment,Walk-in,2
+10/27/2023,C489,52,Female,Acrylic Nails,CAD 103.78,E13,75,Mobile Payment,Pre-booked,2
+12/4/2023,C490,65,Male,Foot Massage,CAD 84.48,E1,57,Credit Card,Walk-in,3
+8/31/2023,C491,45,Female,Manicure,CAD 96.62,E12,49,Credit Card,Walk-in,1
+12/20/2023,C492,57,Female,Pedicure,CAD 144.73,E3,73,Mobile Payment,Walk-in,1
+2/19/2023,C493,34,Female,Foot Massage,CAD 127.55,E10,87,Cash,Pre-booked,4
+9/13/2023,C494,34,Male,Gel Nails,CAD 43.75,E14,98,Credit Card,Pre-booked,3
+9/27/2023,C495,65,Male,Pedicure,CAD 116.51,E14,77,Debit Card,Pre-booked,3
+9/5/2023,C496,28,Female,Gel Nails,CAD 144.48,E15,107,Mobile Payment,Walk-in,2
+10/16/2023,C497,25,Male,Nail Art,CAD 53.49,E14,81,Debit Card,Pre-booked,4
+1/8/2023,C498,22,Female,Foot Massage,CAD 115.25,E15,93,Debit Card,Walk-in,5
+1/14/2023,C499,64,Male,Pedicure,CAD 96.86,E12,115,Debit Card,Walk-in,5
+11/7/2023,C500,43,Female,Acrylic Nails,CAD 93.82,E9,89,Mobile Payment,Walk-in,4
+6/9/2023,C501,57,Male,Acrylic Nails,CAD 68.51,E14,83,Credit Card,Pre-booked,4
+7/27/2023,C502,38,Female,Manicure,CAD 133.77,E5,33,Credit Card,Walk-in,2
+12/2/2023,C503,19,Male,Manicure,CAD 143.86,E9,89,Mobile Payment,Pre-booked,2
+10/26/2023,C504,29,Female,Foot Massage,CAD 70.76,E12,45,Credit Card,Pre-booked,1
+6/15/2023,C505,28,Female,Foot Massage,CAD 106.20,E7,55,Mobile Payment,Walk-in,4
+11/10/2023,C506,34,Male,Acrylic Nails,CAD 139.10,E12,80,Credit Card,Walk-in,2
+6/6/2023,C507,48,Male,Nail Art,CAD 24.22,E7,33,Mobile Payment,Walk-in,3
+9/15/2023,C508,44,Female,Nail Art,CAD 133.60,E8,49,Credit Card,Pre-booked,5
+4/15/2023,C509,63,Male,Foot Massage,CAD 123.00,E13,48,Credit Card,Walk-in,4
+11/20/2023,C510,52,Female,Pedicure,CAD 89.46,E13,99,Credit Card,Pre-booked,4
+4/1/2023,C511,46,Female,Foot Massage,CAD 42.30,E5,42,Mobile Payment,Walk-in,1
+8/10/2023,C512,22,Female,Gel Nails,CAD 146.89,E8,76,Credit Card,Walk-in,2
+1/14/2023,C513,27,Female,Nail Art,CAD 139.72,E6,57,Debit Card,Pre-booked,4
+12/29/2023,C514,54,Male,Acrylic Nails,CAD 25.07,E11,85,Mobile Payment,Pre-booked,3
+8/17/2023,C515,41,Male,Manicure,CAD 52.69,E13,116,Credit Card,Pre-booked,3
+6/20/2023,C516,38,Female,Pedicure,CAD 43.57,E8,40,Debit Card,Pre-booked,3
+9/10/2023,C517,31,Male,Pedicure,CAD 71.34,E11,80,Debit Card,Walk-in,4
+12/26/2023,C518,31,Female,Acrylic Nails,CAD 21.61,E11,73,Credit Card,Pre-booked,2
+10/5/2023,C519,26,Male,Foot Massage,CAD 104.50,E15,77,Credit Card,Pre-booked,2
+4/12/2023,C520,64,Male,Gel Nails,CAD 98.12,E13,60,Cash,Pre-booked,2
+10/31/2023,C521,52,Male,Pedicure,CAD 82.53,E12,70,Cash,Pre-booked,3
+8/30/2023,C522,36,Male,Acrylic Nails,CAD 88.75,E8,84,Debit Card,Pre-booked,2
+10/8/2023,C523,49,Male,Gel Nails,CAD 130.17,E9,104,Debit Card,Walk-in,3
+6/21/2023,C524,37,Male,Pedicure,CAD 21.04,E14,62,Debit Card,Pre-booked,5
+4/10/2023,C525,50,Male,Gel Nails,CAD 95.74,E8,55,Mobile Payment,Pre-booked,5
+3/15/2023,C526,65,Male,Pedicure,CAD 96.93,E7,112,Credit Card,Pre-booked,4
+3/28/2023,C527,23,Female,Nail Art,CAD 113.81,E12,93,Debit Card,Walk-in,1
+12/16/2023,C528,60,Male,Foot Massage,CAD 134.93,E1,64,Cash,Walk-in,1
+3/2/2023,C529,59,Male,Nail Art,CAD 135.70,E15,106,Cash,Pre-booked,3
+8/8/2023,C530,44,Male,Manicure,CAD 43.17,E9,62,Debit Card,Pre-booked,1
+2/16/2023,C531,20,Female,Nail Art,CAD 58.48,E7,43,Credit Card,Pre-booked,1
+5/21/2023,C532,58,Female,Gel Nails,CAD 42.46,E3,40,Mobile Payment,Pre-booked,3
+2/14/2023,C533,25,Female,Nail Art,CAD 140.19,E11,83,Credit Card,Pre-booked,3
+7/6/2023,C534,32,Male,Gel Nails,CAD 137.33,E7,59,Debit Card,Pre-booked,1
+6/4/2023,C535,41,Male,Foot Massage,CAD 91.44,E4,113,Mobile Payment,Pre-booked,1
+6/13/2023,C536,58,Male,Gel Nails,CAD 139.46,E8,60,Mobile Payment,Walk-in,5
+2/5/2023,C537,54,Female,Nail Art,CAD 110.33,E14,83,Debit Card,Pre-booked,4
+6/15/2023,C538,24,Female,Acrylic Nails,CAD 148.27,E15,66,Mobile Payment,Pre-booked,3
+12/9/2023,C539,25,Male,Foot Massage,CAD 89.49,E5,48,Mobile Payment,Pre-booked,1
+10/15/2023,C540,53,Female,Manicure,CAD 106.34,E9,60,Mobile Payment,Pre-booked,2
+6/1/2023,C541,46,Male,Nail Art,CAD 83.44,E6,99,Cash,Pre-booked,1
+10/31/2023,C542,23,Male,Foot Massage,CAD 125.86,E14,118,Mobile Payment,Walk-in,5
+8/9/2023,C543,43,Female,Manicure,CAD 63.03,E15,96,Credit Card,Walk-in,2
+3/5/2023,C544,43,Female,Manicure,CAD 142.68,E10,97,Debit Card,Walk-in,3
+5/31/2023,C545,39,Female,Nail Art,CAD 24.30,E3,50,Cash,Pre-booked,1
+5/3/2023,C546,56,Male,Manicure,CAD 88.38,E10,115,Mobile Payment,Pre-booked,5
+12/28/2023,C547,26,Female,Foot Massage,CAD 85.09,E14,67,Debit Card,Walk-in,4
+9/3/2023,C548,44,Female,Nail Art,CAD 38.66,E11,42,Debit Card,Pre-booked,2
+11/22/2023,C549,57,Female,Pedicure,CAD 31.13,E9,62,Mobile Payment,Walk-in,4
+7/28/2023,C550,47,Male,Pedicure,CAD 43.47,E14,71,Mobile Payment,Walk-in,1
+8/25/2023,C551,44,Female,Gel Nails,CAD 122.41,E14,43,Cash,Pre-booked,3
+12/4/2023,C552,44,Female,Manicure,CAD 80.80,E9,98,Mobile Payment,Pre-booked,1
+7/2/2023,C553,30,Female,Acrylic Nails,CAD 92.81,E1,119,Mobile Payment,Walk-in,3
+4/8/2023,C554,53,Male,Gel Nails,CAD 132.29,E2,49,Credit Card,Pre-booked,2
+6/23/2023,C555,56,Male,Manicure,CAD 81.31,E1,117,Credit Card,Pre-booked,2
+1/5/2023,C556,34,Female,Foot Massage,CAD 51.52,E12,37,Debit Card,Walk-in,2
+2/6/2023,C557,24,Male,Foot Massage,CAD 74.48,E11,52,Mobile Payment,Pre-booked,3
+1/13/2023,C558,63,Female,Gel Nails,CAD 107.16,E13,30,Cash,Walk-in,4
+3/13/2023,C559,44,Female,Pedicure,CAD 88.11,E14,89,Debit Card,Pre-booked,5
+8/30/2023,C560,52,Female,Pedicure,CAD 43.09,E15,108,Credit Card,Pre-booked,3
+5/16/2023,C561,27,Female,Acrylic Nails,CAD 146.95,E9,33,Debit Card,Pre-booked,5
+9/25/2023,C562,61,Male,Acrylic Nails,CAD 118.21,E12,112,Mobile Payment,Walk-in,2
+11/20/2023,C563,21,Female,Foot Massage,CAD 59.27,E2,69,Credit Card,Walk-in,3
+8/11/2023,C564,37,Male,Acrylic Nails,CAD 82.96,E7,54,Debit Card,Walk-in,1
+11/9/2023,C565,62,Male,Manicure,CAD 117.64,E14,32,Cash,Pre-booked,3
+1/14/2023,C566,48,Male,Nail Art,CAD 31.97,E2,57,Mobile Payment,Walk-in,5
+6/1/2023,C567,33,Male,Foot Massage,CAD 72.75,E6,101,Credit Card,Walk-in,2
+10/6/2023,C568,45,Male,Pedicure,CAD 76.72,E1,88,Mobile Payment,Pre-booked,4
+4/7/2023,C569,64,Male,Acrylic Nails,CAD 123.43,E8,53,Credit Card,Pre-booked,1
+3/28/2023,C570,26,Female,Nail Art,CAD 112.20,E15,112,Credit Card,Pre-booked,3
+8/10/2023,C571,27,Female,Nail Art,CAD 124.69,E1,111,Debit Card,Pre-booked,3
+6/15/2023,C572,46,Male,Pedicure,CAD 30.49,E10,44,Credit Card,Walk-in,1
+6/26/2023,C573,19,Male,Manicure,CAD 121.90,E9,102,Credit Card,Walk-in,1
+7/11/2023,C574,60,Female,Foot Massage,CAD 92.24,E4,47,Credit Card,Walk-in,3
+12/13/2023,C575,35,Male,Nail Art,CAD 146.46,E3,84,Debit Card,Pre-booked,4
+7/14/2023,C576,40,Female,Manicure,CAD 38.70,E6,106,Mobile Payment,Pre-booked,1
+12/12/2023,C577,36,Male,Gel Nails,CAD 149.33,E12,31,Mobile Payment,Pre-booked,3
+2/8/2023,C578,41,Male,Nail Art,CAD 146.23,E5,80,Cash,Walk-in,1
+6/14/2023,C579,45,Female,Manicure,CAD 120.10,E15,118,Cash,Pre-booked,1
+6/19/2023,C580,19,Female,Gel Nails,CAD 117.94,E11,46,Credit Card,Walk-in,4
+1/16/2023,C581,20,Female,Pedicure,CAD 118.97,E11,40,Mobile Payment,Pre-booked,2
+11/19/2023,C582,47,Female,Manicure,CAD 71.30,E4,78,Cash,Pre-booked,5
+5/15/2023,C583,54,Female,Pedicure,CAD 59.09,E8,33,Debit Card,Walk-in,5
+11/13/2023,C584,59,Male,Foot Massage,CAD 92.53,E5,99,Debit Card,Walk-in,2
+3/9/2023,C585,55,Male,Acrylic Nails,CAD 102.56,E15,88,Debit Card,Walk-in,5
+5/2/2023,C586,40,Female,Pedicure,CAD 46.49,E2,95,Credit Card,Pre-booked,1
+1/6/2023,C587,65,Male,Manicure,CAD 32.79,E1,72,Debit Card,Pre-booked,3
+12/12/2023,C588,18,Female,Pedicure,CAD 107.45,E6,100,Debit Card,Pre-booked,3
+7/26/2023,C589,42,Female,Nail Art,CAD 142.74,E14,49,Cash,Pre-booked,4
+11/11/2023,C590,19,Female,Manicure,CAD 28.11,E12,109,Credit Card,Walk-in,4
+9/29/2023,C591,50,Female,Gel Nails,CAD 136.04,E13,71,Debit Card,Pre-booked,5
+5/7/2023,C592,38,Male,Gel Nails,CAD 46.83,E15,37,Mobile Payment,Pre-booked,2
+11/10/2023,C593,24,Female,Acrylic Nails,CAD 90.35,E9,89,Mobile Payment,Walk-in,5
+7/21/2023,C594,57,Female,Manicure,CAD 131.39,E15,69,Cash,Pre-booked,4
+12/3/2023,C595,51,Male,Foot Massage,CAD 51.94,E10,87,Cash,Pre-booked,1
+9/22/2023,C596,41,Male,Nail Art,CAD 26.74,E2,36,Credit Card,Walk-in,5
+11/4/2023,C597,56,Male,Pedicure,CAD 111.99,E7,115,Credit Card,Walk-in,3
+10/26/2023,C598,60,Female,Acrylic Nails,CAD 93.99,E12,42,Debit Card,Walk-in,5
+12/5/2023,C599,43,Female,Manicure,CAD 33.98,E8,103,Mobile Payment,Walk-in,1
+5/25/2023,C600,41,Female,Nail Art,CAD 25.96,E6,116,Cash,Walk-in,1
+6/23/2023,C601,35,Male,Nail Art,CAD 134.60,E10,87,Credit Card,Walk-in,2
+7/4/2023,C602,65,Female,Foot Massage,CAD 33.71,E15,38,Cash,Pre-booked,3
+12/17/2023,C603,65,Female,Gel Nails,CAD 38.44,E9,102,Debit Card,Walk-in,4
+9/30/2023,C604,20,Female,Nail Art,CAD 29.42,E2,73,Mobile Payment,Pre-booked,2
+4/17/2023,C605,36,Female,Nail Art,CAD 148.15,E4,48,Mobile Payment,Pre-booked,5
+12/23/2023,C606,60,Male,Foot Massage,CAD 143.11,E3,36,Cash,Pre-booked,3
+1/21/2023,C607,28,Male,Nail Art,CAD 43.84,E9,39,Credit Card,Pre-booked,5
+4/11/2023,C608,36,Male,Nail Art,CAD 42.49,E11,85,Credit Card,Walk-in,1
+9/11/2023,C609,58,Male,Pedicure,CAD 132.13,E6,83,Credit Card,Pre-booked,1
+11/2/2023,C610,24,Female,Gel Nails,CAD 32.15,E6,44,Mobile Payment,Walk-in,5
+10/7/2023,C611,45,Male,Manicure,CAD 55.80,E2,91,Debit Card,Walk-in,1
+12/19/2023,C612,47,Male,Pedicure,CAD 33.13,E3,33,Cash,Walk-in,3
+8/24/2023,C613,51,Male,Manicure,CAD 38.15,E13,87,Cash,Walk-in,3
+7/25/2023,C614,19,Female,Pedicure,CAD 127.13,E12,109,Credit Card,Pre-booked,2
+12/17/2023,C615,58,Male,Gel Nails,CAD 122.64,E10,98,Credit Card,Pre-booked,3
+11/29/2023,C616,20,Male,Pedicure,CAD 95.48,E10,41,Debit Card,Walk-in,5
+1/31/2023,C617,38,Female,Gel Nails,CAD 118.03,E3,30,Mobile Payment,Walk-in,2
+3/3/2023,C618,20,Male,Gel Nails,CAD 69.40,E2,33,Mobile Payment,Pre-booked,3
+10/6/2023,C619,56,Female,Foot Massage,CAD 124.23,E9,102,Mobile Payment,Walk-in,3
+6/6/2023,C620,56,Male,Nail Art,CAD 62.48,E8,51,Mobile Payment,Pre-booked,2
+10/26/2023,C621,21,Male,Nail Art,CAD 122.84,E4,103,Credit Card,Pre-booked,3
+2/9/2023,C622,57,Male,Nail Art,CAD 108.88,E1,87,Cash,Walk-in,5
+10/15/2023,C623,44,Female,Foot Massage,CAD 93.60,E8,70,Debit Card,Walk-in,3
+7/16/2023,C624,63,Male,Acrylic Nails,CAD 99.32,E7,47,Debit Card,Pre-booked,5
+6/4/2023,C625,42,Female,Pedicure,CAD 70.77,E1,96,Mobile Payment,Walk-in,1
+7/27/2023,C626,31,Male,Gel Nails,CAD 99.79,E7,59,Mobile Payment,Pre-booked,2
+1/30/2023,C627,63,Male,Nail Art,CAD 100.23,E1,97,Cash,Walk-in,1
+8/24/2023,C628,50,Female,Manicure,CAD 28.84,E11,97,Credit Card,Walk-in,2
+11/19/2023,C629,59,Male,Foot Massage,CAD 124.74,E2,38,Credit Card,Pre-booked,5
+7/22/2023,C630,22,Female,Manicure,CAD 55.01,E12,98,Cash,Walk-in,2
+4/29/2023,C631,22,Male,Manicure,CAD 22.44,E15,31,Debit Card,Pre-booked,5
+4/23/2023,C632,47,Male,Nail Art,CAD 109.10,E4,45,Mobile Payment,Walk-in,5
+12/7/2023,C633,27,Male,Foot Massage,CAD 136.99,E8,68,Credit Card,Walk-in,5
+1/31/2023,C634,30,Female,Acrylic Nails,CAD 149.35,E7,101,Debit Card,Walk-in,1
+12/1/2023,C635,38,Male,Foot Massage,CAD 132.77,E15,66,Cash,Walk-in,3
+8/3/2023,C636,52,Female,Manicure,CAD 124.32,E15,40,Credit Card,Walk-in,4
+10/18/2023,C637,63,Male,Manicure,CAD 125.53,E6,31,Cash,Pre-booked,3
+11/12/2023,C638,46,Male,Foot Massage,CAD 111.08,E3,42,Cash,Walk-in,2
+5/24/2023,C639,41,Male,Foot Massage,CAD 36.73,E1,47,Credit Card,Pre-booked,5
+1/31/2023,C640,43,Female,Nail Art,CAD 143.63,E12,42,Credit Card,Walk-in,2
+7/7/2023,C641,40,Male,Manicure,CAD 74.43,E1,64,Mobile Payment,Pre-booked,1
+8/2/2023,C642,41,Female,Gel Nails,CAD 26.20,E13,117,Cash,Pre-booked,4
+4/22/2023,C643,24,Male,Foot Massage,CAD 99.65,E1,104,Cash,Walk-in,4
+4/4/2023,C644,19,Female,Nail Art,CAD 23.09,E15,60,Mobile Payment,Walk-in,5
+5/14/2023,C645,43,Male,Pedicure,CAD 139.21,E2,67,Credit Card,Pre-booked,3
+7/25/2023,C646,52,Male,Acrylic Nails,CAD 40.71,E10,47,Debit Card,Walk-in,3
+5/16/2023,C647,62,Male,Foot Massage,CAD 58.08,E8,77,Mobile Payment,Pre-booked,5
+5/14/2023,C648,30,Female,Manicure,CAD 71.27,E3,47,Cash,Walk-in,3
+5/6/2023,C649,57,Female,Acrylic Nails,CAD 123.46,E13,105,Credit Card,Walk-in,5
+8/28/2023,C650,20,Female,Pedicure,CAD 67.58,E11,99,Mobile Payment,Walk-in,5
+11/22/2023,C651,61,Male,Gel Nails,CAD 106.71,E14,103,Cash,Pre-booked,5
+11/13/2023,C652,34,Female,Pedicure,CAD 107.63,E2,104,Credit Card,Walk-in,4
+9/11/2023,C653,44,Female,Nail Art,CAD 23.78,E3,104,Credit Card,Pre-booked,4
+9/10/2023,C654,25,Female,Acrylic Nails,CAD 46.16,E13,64,Cash,Pre-booked,3
+10/17/2023,C655,32,Male,Foot Massage,CAD 47.17,E10,66,Cash,Pre-booked,1
+9/10/2023,C656,56,Female,Nail Art,CAD 29.65,E13,67,Debit Card,Walk-in,5
+4/27/2023,C657,57,Female,Nail Art,CAD 63.26,E5,67,Credit Card,Pre-booked,4
+8/27/2023,C658,21,Female,Foot Massage,CAD 27.74,E8,66,Cash,Walk-in,1
+5/12/2023,C659,43,Male,Gel Nails,CAD 112.61,E5,96,Credit Card,Pre-booked,3
+1/20/2023,C660,64,Male,Manicure,CAD 142.72,E1,65,Debit Card,Walk-in,1
+12/20/2023,C661,47,Male,Acrylic Nails,CAD 35.12,E14,86,Mobile Payment,Pre-booked,2
+3/25/2023,C662,61,Female,Nail Art,CAD 49.55,E14,96,Credit Card,Pre-booked,4
+5/10/2023,C663,38,Male,Acrylic Nails,CAD 43.26,E9,118,Cash,Pre-booked,4
+12/31/2023,C664,37,Female,Nail Art,CAD 58.43,E10,31,Credit Card,Walk-in,1
+3/29/2023,C665,38,Female,Pedicure,CAD 138.32,E11,69,Cash,Walk-in,5
+9/18/2023,C666,47,Female,Pedicure,CAD 67.19,E4,86,Credit Card,Walk-in,3
+8/15/2023,C667,39,Male,Foot Massage,CAD 85.67,E14,88,Credit Card,Pre-booked,4
+10/27/2023,C668,19,Male,Gel Nails,CAD 111.41,E2,71,Credit Card,Pre-booked,1
+1/21/2023,C669,56,Male,Foot Massage,CAD 104.29,E11,108,Mobile Payment,Walk-in,3
+6/5/2023,C670,58,Female,Pedicure,CAD 20.45,E13,69,Mobile Payment,Walk-in,4
+7/1/2023,C671,29,Male,Acrylic Nails,CAD 49.96,E14,74,Debit Card,Walk-in,2
+12/21/2023,C672,28,Male,Manicure,CAD 137.59,E1,83,Mobile Payment,Pre-booked,2
+12/23/2023,C673,20,Female,Foot Massage,CAD 119.04,E4,95,Cash,Walk-in,3
+1/16/2023,C674,19,Female,Foot Massage,CAD 103.15,E7,108,Debit Card,Walk-in,4
+9/30/2023,C675,31,Female,Gel Nails,CAD 58.52,E12,77,Credit Card,Walk-in,1
+6/22/2023,C676,65,Female,Gel Nails,CAD 105.72,E14,103,Mobile Payment,Pre-booked,2
+8/4/2023,C677,48,Female,Foot Massage,CAD 82.09,E8,94,Debit Card,Walk-in,3
+4/14/2023,C678,28,Female,Manicure,CAD 83.71,E9,79,Credit Card,Walk-in,3
+8/23/2023,C679,33,Male,Manicure,CAD 146.67,E13,67,Debit Card,Walk-in,2
+4/14/2023,C680,48,Female,Foot Massage,CAD 143.45,E7,112,Credit Card,Walk-in,4
+2/21/2023,C681,35,Female,Manicure,CAD 97.81,E14,65,Cash,Pre-booked,2
+2/1/2023,C682,18,Male,Pedicure,CAD 72.68,E1,57,Credit Card,Pre-booked,3
+5/20/2023,C683,37,Male,Nail Art,CAD 48.88,E8,52,Mobile Payment,Walk-in,5
+3/8/2023,C684,32,Male,Gel Nails,CAD 103.27,E10,67,Credit Card,Pre-booked,2
+4/26/2023,C685,45,Male,Manicure,CAD 80.79,E9,93,Debit Card,Pre-booked,3
+4/5/2023,C686,27,Female,Foot Massage,CAD 54.91,E5,54,Debit Card,Pre-booked,5
+10/11/2023,C687,43,Male,Pedicure,CAD 147.10,E15,31,Cash,Walk-in,3
+3/28/2023,C688,32,Male,Pedicure,CAD 58.47,E15,114,Cash,Pre-booked,2
+3/5/2023,C689,45,Male,Gel Nails,CAD 129.91,E10,107,Mobile Payment,Walk-in,5
+3/4/2023,C690,29,Male,Foot Massage,CAD 122.83,E10,93,Debit Card,Walk-in,5
+10/3/2023,C691,58,Female,Pedicure,CAD 142.85,E14,101,Credit Card,Pre-booked,4
+9/9/2023,C692,44,Male,Pedicure,CAD 134.19,E13,118,Mobile Payment,Pre-booked,2
+5/26/2023,C693,57,Female,Gel Nails,CAD 127.59,E3,44,Credit Card,Walk-in,5
+7/13/2023,C694,28,Female,Gel Nails,CAD 109.56,E13,83,Cash,Walk-in,2
+5/12/2023,C695,36,Male,Pedicure,CAD 89.18,E13,82,Debit Card,Pre-booked,4
+4/19/2023,C696,44,Female,Gel Nails,CAD 54.03,E8,90,Cash,Pre-booked,3
+9/2/2023,C697,51,Female,Gel Nails,CAD 98.34,E14,45,Mobile Payment,Pre-booked,3
+5/22/2023,C698,62,Female,Manicure,CAD 113.73,E13,70,Debit Card,Pre-booked,2
+7/6/2023,C699,50,Male,Gel Nails,CAD 143.27,E11,103,Mobile Payment,Walk-in,1
+3/12/2023,C700,62,Male,Manicure,CAD 100.62,E13,52,Cash,Walk-in,4
+5/25/2023,C701,33,Female,Gel Nails,CAD 148.73,E10,81,Cash,Pre-booked,2
+10/2/2023,C702,26,Male,Manicure,CAD 133.34,E1,85,Cash,Pre-booked,1
+11/22/2023,C703,30,Female,Pedicure,CAD 70.48,E15,113,Mobile Payment,Walk-in,1
+7/9/2023,C704,40,Female,Nail Art,CAD 77.92,E14,91,Mobile Payment,Walk-in,5
+10/10/2023,C705,29,Female,Foot Massage,CAD 127.51,E13,50,Mobile Payment,Pre-booked,3
+2/12/2023,C706,54,Female,Foot Massage,CAD 52.34,E4,96,Mobile Payment,Walk-in,2
+11/29/2023,C707,63,Male,Acrylic Nails,CAD 59.54,E1,60,Mobile Payment,Pre-booked,1
+2/16/2023,C708,57,Female,Acrylic Nails,CAD 30.55,E1,45,Debit Card,Walk-in,2
+6/8/2023,C709,36,Female,Pedicure,CAD 145.77,E1,31,Cash,Pre-booked,4
+12/14/2023,C710,52,Female,Foot Massage,CAD 110.46,E13,37,Debit Card,Pre-booked,2
+1/29/2023,C711,47,Male,Acrylic Nails,CAD 87.82,E9,107,Cash,Pre-booked,3
+12/17/2023,C712,45,Female,Acrylic Nails,CAD 96.00,E5,105,Credit Card,Walk-in,4
+1/27/2023,C713,32,Male,Gel Nails,CAD 120.10,E2,103,Debit Card,Walk-in,5
+11/24/2023,C714,23,Male,Acrylic Nails,CAD 114.13,E7,79,Debit Card,Pre-booked,2
+11/21/2023,C715,62,Male,Foot Massage,CAD 141.06,E4,82,Debit Card,Walk-in,3
+5/15/2023,C716,21,Male,Nail Art,CAD 75.14,E15,91,Debit Card,Walk-in,4
+9/15/2023,C717,65,Male,Foot Massage,CAD 43.15,E4,110,Credit Card,Pre-booked,5
+7/9/2023,C718,64,Female,Acrylic Nails,CAD 59.38,E6,93,Debit Card,Walk-in,4
+6/29/2023,C719,27,Female,Foot Massage,CAD 131.02,E12,93,Mobile Payment,Walk-in,4
+7/22/2023,C720,37,Female,Gel Nails,CAD 101.65,E4,115,Cash,Walk-in,1
+2/5/2023,C721,52,Female,Manicure,CAD 98.33,E5,42,Debit Card,Walk-in,2
+6/29/2023,C722,46,Female,Gel Nails,CAD 35.63,E4,48,Credit Card,Walk-in,3
+2/25/2023,C723,50,Male,Pedicure,CAD 41.34,E1,82,Credit Card,Pre-booked,2
+2/18/2023,C724,63,Male,Pedicure,CAD 141.19,E7,33,Debit Card,Pre-booked,5
+11/28/2023,C725,25,Female,Foot Massage,CAD 24.58,E8,64,Credit Card,Pre-booked,1
+11/16/2023,C726,21,Male,Gel Nails,CAD 140.24,E8,60,Mobile Payment,Pre-booked,5
+8/23/2023,C727,49,Female,Acrylic Nails,CAD 99.67,E7,85,Mobile Payment,Pre-booked,2
+1/3/2023,C728,27,Male,Foot Massage,CAD 122.09,E13,88,Cash,Pre-booked,5
+10/30/2023,C729,65,Male,Gel Nails,CAD 64.29,E3,53,Credit Card,Pre-booked,5
+11/3/2023,C730,65,Female,Nail Art,CAD 90.32,E2,93,Mobile Payment,Walk-in,3
+11/20/2023,C731,31,Male,Acrylic Nails,CAD 21.47,E13,37,Cash,Walk-in,3
+6/19/2023,C732,60,Female,Acrylic Nails,CAD 54.04,E15,96,Mobile Payment,Pre-booked,3
+12/26/2023,C733,58,Male,Manicure,CAD 74.68,E15,95,Debit Card,Pre-booked,4
+11/10/2023,C734,62,Female,Nail Art,CAD 99.79,E2,98,Credit Card,Walk-in,4
+7/27/2023,C735,37,Female,Acrylic Nails,CAD 26.79,E15,65,Mobile Payment,Walk-in,4
+12/17/2023,C736,62,Female,Gel Nails,CAD 29.97,E14,109,Credit Card,Walk-in,1
+9/5/2023,C737,36,Male,Nail Art,CAD 54.92,E15,93,Credit Card,Pre-booked,3
+12/28/2023,C738,18,Male,Acrylic Nails,CAD 96.68,E7,37,Debit Card,Pre-booked,3
+11/18/2023,C739,41,Male,Acrylic Nails,CAD 81.54,E7,100,Debit Card,Pre-booked,1
+7/31/2023,C740,49,Female,Nail Art,CAD 42.13,E10,74,Debit Card,Walk-in,4
+10/8/2023,C741,49,Female,Pedicure,CAD 126.31,E12,70,Credit Card,Pre-booked,1
+7/1/2023,C742,55,Male,Gel Nails,CAD 53.07,E8,119,Debit Card,Walk-in,4
+11/13/2023,C743,50,Female,Foot Massage,CAD 54.56,E10,55,Mobile Payment,Pre-booked,4
+12/17/2023,C744,29,Male,Manicure,CAD 31.79,E13,116,Mobile Payment,Walk-in,4
+10/21/2023,C745,30,Female,Manicure,CAD 125.24,E2,34,Cash,Pre-booked,5
+1/2/2023,C746,26,Male,Acrylic Nails,CAD 106.43,E2,105,Mobile Payment,Pre-booked,4
+5/14/2023,C747,50,Female,Manicure,CAD 27.03,E10,71,Cash,Pre-booked,4
+8/12/2023,C748,45,Female,Gel Nails,CAD 83.37,E5,32,Cash,Pre-booked,5
+10/23/2023,C749,51,Female,Foot Massage,CAD 81.19,E11,82,Cash,Pre-booked,4
+8/9/2023,C750,51,Male,Acrylic Nails,CAD 131.83,E1,62,Cash,Walk-in,4
+11/24/2023,C751,50,Male,Acrylic Nails,CAD 27.15,E12,108,Credit Card,Pre-booked,3
+1/14/2023,C752,55,Male,Foot Massage,CAD 43.09,E15,64,Cash,Pre-booked,2
+7/19/2023,C753,51,Male,Pedicure,CAD 49.46,E4,117,Mobile Payment,Walk-in,3
+1/24/2023,C754,63,Female,Acrylic Nails,CAD 50.50,E8,116,Debit Card,Pre-booked,5
+12/30/2023,C755,27,Female,Gel Nails,CAD 118.75,E4,91,Mobile Payment,Pre-booked,2
+6/11/2023,C756,45,Female,Manicure,CAD 134.34,E10,68,Credit Card,Walk-in,3
+6/18/2023,C757,65,Female,Nail Art,CAD 128.20,E5,89,Cash,Walk-in,4
+6/25/2023,C758,44,Female,Pedicure,CAD 131.82,E8,36,Mobile Payment,Walk-in,3
+5/8/2023,C759,32,Female,Foot Massage,CAD 66.92,E9,99,Credit Card,Pre-booked,5
+10/5/2023,C760,18,Female,Pedicure,CAD 32.37,E14,32,Debit Card,Walk-in,2
+11/3/2023,C761,59,Female,Nail Art,CAD 121.07,E1,56,Cash,Pre-booked,5
+7/28/2023,C762,26,Female,Acrylic Nails,CAD 122.75,E10,96,Cash,Pre-booked,1
+2/4/2023,C763,24,Female,Nail Art,CAD 35.66,E12,63,Mobile Payment,Pre-booked,1
+1/24/2023,C764,40,Female,Pedicure,CAD 116.86,E8,117,Debit Card,Pre-booked,3
+9/4/2023,C765,60,Male,Acrylic Nails,CAD 47.10,E2,109,Mobile Payment,Walk-in,2
+6/9/2023,C766,45,Male,Nail Art,CAD 69.45,E8,45,Debit Card,Pre-booked,5
+10/6/2023,C767,54,Female,Pedicure,CAD 127.78,E12,93,Cash,Walk-in,2
+6/16/2023,C768,41,Female,Gel Nails,CAD 69.37,E3,46,Debit Card,Walk-in,4
+10/7/2023,C769,60,Female,Gel Nails,CAD 115.99,E8,85,Credit Card,Walk-in,3
+7/27/2023,C770,58,Female,Manicure,CAD 135.25,E6,82,Mobile Payment,Walk-in,1
+3/1/2023,C771,32,Male,Nail Art,CAD 23.67,E12,95,Credit Card,Walk-in,1
+1/3/2023,C772,53,Male,Acrylic Nails,CAD 87.54,E14,36,Credit Card,Walk-in,5
+4/12/2023,C773,56,Female,Nail Art,CAD 73.58,E2,85,Mobile Payment,Walk-in,3
+6/26/2023,C774,27,Male,Foot Massage,CAD 141.90,E5,96,Debit Card,Pre-booked,2
+4/27/2023,C775,30,Male,Foot Massage,CAD 66.62,E9,64,Debit Card,Pre-booked,1
+9/5/2023,C776,65,Male,Manicure,CAD 23.93,E11,39,Debit Card,Pre-booked,1
+2/18/2023,C777,47,Male,Nail Art,CAD 36.65,E13,78,Debit Card,Pre-booked,2
+8/29/2023,C778,24,Male,Pedicure,CAD 146.38,E10,74,Mobile Payment,Pre-booked,3
+6/16/2023,C779,50,Female,Gel Nails,CAD 143.37,E6,103,Cash,Pre-booked,3
+7/1/2023,C780,57,Female,Pedicure,CAD 28.32,E14,114,Mobile Payment,Pre-booked,4
+11/8/2023,C781,26,Female,Nail Art,CAD 95.58,E1,118,Mobile Payment,Walk-in,3
+9/11/2023,C782,40,Female,Acrylic Nails,CAD 40.86,E7,96,Debit Card,Walk-in,2
+1/20/2023,C783,57,Female,Nail Art,CAD 78.28,E2,101,Mobile Payment,Walk-in,5
+3/30/2023,C784,32,Female,Acrylic Nails,CAD 36.54,E12,67,Mobile Payment,Pre-booked,3
+1/1/2023,C785,60,Male,Gel Nails,CAD 136.14,E3,86,Mobile Payment,Walk-in,2
+3/19/2023,C786,22,Female,Gel Nails,CAD 74.66,E14,73,Debit Card,Pre-booked,3
+9/16/2023,C787,64,Male,Acrylic Nails,CAD 137.21,E3,61,Credit Card,Walk-in,1
+3/6/2023,C788,25,Female,Foot Massage,CAD 102.60,E4,110,Mobile Payment,Pre-booked,5
+12/6/2023,C789,30,Female,Manicure,CAD 35.03,E3,56,Credit Card,Pre-booked,4
+9/17/2023,C790,20,Male,Manicure,CAD 41.96,E10,40,Cash,Walk-in,3
+2/24/2023,C791,48,Male,Pedicure,CAD 73.96,E13,48,Debit Card,Pre-booked,2
+7/18/2023,C792,31,Male,Gel Nails,CAD 95.07,E15,80,Debit Card,Walk-in,3
+3/3/2023,C793,27,Female,Foot Massage,CAD 80.47,E11,88,Mobile Payment,Walk-in,4
+11/1/2023,C794,30,Male,Gel Nails,CAD 95.91,E9,91,Debit Card,Pre-booked,5
+11/23/2023,C795,30,Male,Acrylic Nails,CAD 140.81,E5,96,Debit Card,Pre-booked,3
+2/28/2023,C796,49,Female,Foot Massage,CAD 140.19,E8,48,Debit Card,Walk-in,2
+3/16/2023,C797,47,Female,Acrylic Nails,CAD 148.39,E2,43,Debit Card,Pre-booked,3
+3/26/2023,C798,61,Female,Nail Art,CAD 77.69,E2,76,Cash,Pre-booked,5
+5/11/2023,C799,51,Female,Gel Nails,CAD 50.44,E1,60,Cash,Pre-booked,4
+3/1/2023,C800,62,Male,Pedicure,CAD 73.56,E2,81,Cash,Pre-booked,1
+3/22/2023,C801,64,Female,Pedicure,CAD 28.59,E4,55,Debit Card,Pre-booked,2
+1/31/2023,C802,38,Female,Pedicure,CAD 97.04,E10,42,Mobile Payment,Walk-in,3
+6/7/2023,C803,36,Male,Acrylic Nails,CAD 111.74,E9,102,Debit Card,Pre-booked,4
+12/15/2023,C804,37,Male,Gel Nails,CAD 38.53,E5,95,Mobile Payment,Pre-booked,2
+11/1/2023,C805,55,Male,Manicure,CAD 142.19,E1,42,Mobile Payment,Pre-booked,2
+5/31/2023,C806,46,Female,Pedicure,CAD 88.43,E10,77,Credit Card,Walk-in,3
+12/13/2023,C807,58,Female,Manicure,CAD 63.33,E15,47,Cash,Walk-in,1
+8/23/2023,C808,21,Female,Acrylic Nails,CAD 40.47,E13,79,Debit Card,Pre-booked,5
+1/19/2023,C809,40,Male,Nail Art,CAD 29.29,E7,40,Credit Card,Walk-in,5
+7/31/2023,C810,36,Male,Pedicure,CAD 136.06,E10,62,Cash,Pre-booked,5
+2/11/2023,C811,50,Male,Nail Art,CAD 108.41,E13,58,Credit Card,Pre-booked,4
+2/6/2023,C812,55,Male,Nail Art,CAD 146.73,E13,38,Debit Card,Walk-in,5
+3/22/2023,C813,54,Male,Pedicure,CAD 93.47,E14,48,Debit Card,Pre-booked,3
+9/30/2023,C814,31,Male,Manicure,CAD 50.01,E2,98,Credit Card,Pre-booked,4
+12/13/2023,C815,41,Female,Foot Massage,CAD 61.88,E14,44,Debit Card,Walk-in,2
+11/26/2023,C816,64,Male,Pedicure,CAD 141.16,E14,93,Credit Card,Pre-booked,5
+10/24/2023,C817,32,Male,Pedicure,CAD 136.09,E6,110,Mobile Payment,Pre-booked,4
+7/29/2023,C818,33,Male,Foot Massage,CAD 133.18,E6,99,Credit Card,Pre-booked,1
+9/16/2023,C819,44,Female,Acrylic Nails,CAD 110.33,E15,40,Mobile Payment,Pre-booked,2
+12/19/2023,C820,21,Female,Manicure,CAD 42.03,E3,46,Cash,Walk-in,1
+8/8/2023,C821,23,Male,Foot Massage,CAD 129.78,E4,106,Mobile Payment,Pre-booked,2
+10/7/2023,C822,55,Female,Foot Massage,CAD 64.00,E6,109,Debit Card,Pre-booked,3
+12/17/2023,C823,59,Female,Manicure,CAD 138.80,E10,38,Mobile Payment,Pre-booked,1
+11/8/2023,C824,25,Male,Acrylic Nails,CAD 90.70,E4,46,Debit Card,Walk-in,2
+8/5/2023,C825,43,Female,Acrylic Nails,CAD 59.63,E6,32,Mobile Payment,Walk-in,2
+2/16/2023,C826,23,Male,Gel Nails,CAD 148.00,E11,98,Cash,Pre-booked,3
+2/26/2023,C827,42,Female,Pedicure,CAD 45.37,E5,93,Debit Card,Walk-in,4
+8/23/2023,C828,46,Male,Acrylic Nails,CAD 101.43,E7,35,Debit Card,Walk-in,2
+8/22/2023,C829,63,Male,Pedicure,CAD 35.74,E3,46,Mobile Payment,Walk-in,3
+9/10/2023,C830,50,Male,Nail Art,CAD 90.86,E1,66,Mobile Payment,Walk-in,5
+6/17/2023,C831,48,Female,Pedicure,CAD 146.07,E1,95,Mobile Payment,Walk-in,4
+12/10/2023,C832,40,Female,Pedicure,CAD 67.23,E11,89,Mobile Payment,Walk-in,5
+5/10/2023,C833,59,Female,Acrylic Nails,CAD 78.56,E15,74,Credit Card,Walk-in,4
+6/19/2023,C834,26,Female,Gel Nails,CAD 47.36,E4,58,Mobile Payment,Walk-in,3
+1/15/2023,C835,22,Male,Nail Art,CAD 84.73,E1,38,Mobile Payment,Walk-in,2
+3/22/2023,C836,46,Male,Foot Massage,CAD 51.79,E10,80,Cash,Pre-booked,4
+7/30/2023,C837,58,Male,Manicure,CAD 92.28,E10,108,Credit Card,Walk-in,3
+1/16/2023,C838,64,Male,Foot Massage,CAD 69.91,E6,119,Credit Card,Pre-booked,2
+10/3/2023,C839,31,Female,Manicure,CAD 45.06,E11,70,Debit Card,Walk-in,1
+2/15/2023,C840,29,Female,Nail Art,CAD 135.15,E2,70,Debit Card,Pre-booked,2
+4/22/2023,C841,54,Female,Manicure,CAD 39.85,E2,82,Mobile Payment,Pre-booked,2
+1/31/2023,C842,60,Female,Foot Massage,CAD 52.43,E2,47,Cash,Walk-in,1
+2/11/2023,C843,39,Female,Pedicure,CAD 104.51,E5,64,Credit Card,Walk-in,1
+8/30/2023,C844,45,Female,Gel Nails,CAD 149.23,E10,58,Debit Card,Walk-in,2
+4/21/2023,C845,51,Male,Foot Massage,CAD 79.72,E9,56,Credit Card,Walk-in,4
+12/10/2023,C846,56,Male,Gel Nails,CAD 58.43,E10,40,Credit Card,Walk-in,2
+8/23/2023,C847,58,Female,Gel Nails,CAD 28.09,E2,59,Debit Card,Pre-booked,3
+6/3/2023,C848,53,Male,Gel Nails,CAD 45.58,E9,119,Mobile Payment,Pre-booked,2
+8/14/2023,C849,47,Male,Foot Massage,CAD 58.83,E12,87,Credit Card,Pre-booked,2
+5/25/2023,C850,35,Male,Manicure,CAD 65.74,E3,53,Debit Card,Pre-booked,3
+6/18/2023,C851,34,Male,Manicure,CAD 145.27,E6,66,Mobile Payment,Walk-in,3
+2/4/2023,C852,62,Female,Acrylic Nails,CAD 21.22,E11,46,Mobile Payment,Pre-booked,4
+12/19/2023,C853,64,Female,Pedicure,CAD 123.44,E5,39,Credit Card,Walk-in,2
+11/7/2023,C854,26,Male,Manicure,CAD 23.62,E14,114,Cash,Walk-in,3
+8/6/2023,C855,46,Female,Acrylic Nails,CAD 53.48,E2,113,Credit Card,Walk-in,5
+10/27/2023,C856,55,Female,Manicure,CAD 81.00,E14,38,Mobile Payment,Pre-booked,4
+8/2/2023,C857,63,Female,Gel Nails,CAD 125.75,E2,70,Credit Card,Pre-booked,5
+8/23/2023,C858,65,Female,Nail Art,CAD 102.57,E10,96,Credit Card,Pre-booked,3
+12/13/2023,C859,28,Male,Pedicure,CAD 74.02,E4,50,Credit Card,Pre-booked,1
+1/13/2023,C860,44,Female,Acrylic Nails,CAD 71.84,E9,85,Mobile Payment,Walk-in,5
+7/22/2023,C861,25,Female,Acrylic Nails,CAD 143.74,E13,85,Credit Card,Walk-in,2
+2/28/2023,C862,25,Female,Manicure,CAD 63.94,E8,85,Credit Card,Walk-in,5
+6/27/2023,C863,21,Male,Manicure,CAD 86.12,E2,39,Mobile Payment,Walk-in,2
+10/21/2023,C864,44,Female,Foot Massage,CAD 112.95,E12,52,Cash,Walk-in,4
+9/27/2023,C865,23,Female,Gel Nails,CAD 136.60,E7,84,Cash,Walk-in,1
+12/31/2023,C866,60,Male,Pedicure,CAD 42.81,E13,103,Credit Card,Pre-booked,2
+1/1/2023,C867,37,Male,Pedicure,CAD 55.62,E8,91,Mobile Payment,Pre-booked,3
+4/17/2023,C868,37,Female,Pedicure,CAD 85.34,E10,35,Mobile Payment,Pre-booked,4
+5/7/2023,C869,54,Female,Manicure,CAD 140.17,E5,117,Mobile Payment,Walk-in,2
+6/26/2023,C870,59,Female,Nail Art,CAD 28.34,E1,41,Credit Card,Walk-in,5
+9/8/2023,C871,41,Male,Foot Massage,CAD 138.29,E8,76,Cash,Pre-booked,2
+3/31/2023,C872,27,Female,Pedicure,CAD 31.71,E11,98,Cash,Pre-booked,1
+5/15/2023,C873,50,Female,Pedicure,CAD 48.46,E3,40,Debit Card,Walk-in,2
+7/15/2023,C874,31,Male,Pedicure,CAD 140.76,E11,80,Mobile Payment,Walk-in,1
+1/5/2023,C875,63,Male,Foot Massage,CAD 28.50,E4,58,Credit Card,Walk-in,2
+2/25/2023,C876,26,Male,Pedicure,CAD 83.10,E11,90,Mobile Payment,Pre-booked,1
+8/14/2023,C877,45,Female,Nail Art,CAD 141.32,E1,41,Mobile Payment,Pre-booked,4
+11/10/2023,C878,27,Female,Gel Nails,CAD 111.94,E4,84,Mobile Payment,Walk-in,2
+1/26/2023,C879,58,Female,Pedicure,CAD 48.40,E1,44,Credit Card,Walk-in,3
+8/15/2023,C880,64,Female,Manicure,CAD 98.66,E15,93,Cash,Walk-in,5
+8/20/2023,C881,56,Male,Manicure,CAD 101.84,E1,59,Debit Card,Pre-booked,4
+9/10/2023,C882,20,Male,Manicure,CAD 131.28,E10,33,Credit Card,Pre-booked,1
+12/2/2023,C883,20,Male,Gel Nails,CAD 118.51,E11,51,Mobile Payment,Pre-booked,4
+2/24/2023,C884,64,Female,Manicure,CAD 52.42,E11,115,Cash,Walk-in,1
+5/15/2023,C885,42,Male,Foot Massage,CAD 139.29,E6,77,Debit Card,Walk-in,3
+5/24/2023,C886,44,Female,Pedicure,CAD 59.77,E7,53,Debit Card,Pre-booked,2
+7/8/2023,C887,35,Male,Manicure,CAD 118.61,E7,74,Mobile Payment,Walk-in,4
+11/19/2023,C888,49,Male,Pedicure,CAD 30.55,E14,37,Debit Card,Pre-booked,5
+5/17/2023,C889,35,Male,Foot Massage,CAD 71.94,E4,30,Credit Card,Walk-in,1
+3/27/2023,C890,60,Male,Pedicure,CAD 64.83,E9,119,Cash,Pre-booked,1
+9/29/2023,C891,63,Male,Nail Art,CAD 85.03,E14,95,Cash,Pre-booked,4
+5/26/2023,C892,19,Male,Foot Massage,CAD 104.80,E12,40,Cash,Walk-in,3
+4/3/2023,C893,49,Female,Manicure,CAD 112.22,E8,53,Credit Card,Walk-in,5
+4/28/2023,C894,29,Male,Foot Massage,CAD 121.90,E1,116,Mobile Payment,Walk-in,5
+5/14/2023,C895,38,Female,Gel Nails,CAD 38.33,E13,97,Mobile Payment,Walk-in,3
+5/20/2023,C896,32,Female,Manicure,CAD 139.88,E15,117,Credit Card,Walk-in,3
+7/24/2023,C897,18,Female,Manicure,CAD 95.53,E2,63,Mobile Payment,Pre-booked,4
+7/20/2023,C898,34,Male,Acrylic Nails,CAD 148.99,E15,61,Credit Card,Pre-booked,4
+9/2/2023,C899,44,Male,Nail Art,CAD 124.08,E6,77,Credit Card,Walk-in,3
+11/14/2023,C900,52,Male,Manicure,CAD 124.95,E3,77,Cash,Pre-booked,5
+3/3/2023,C901,48,Female,Manicure,CAD 139.24,E13,37,Debit Card,Pre-booked,5
+9/23/2023,C902,48,Male,Gel Nails,CAD 45.31,E12,96,Debit Card,Walk-in,2
+9/23/2023,C903,52,Male,Manicure,CAD 24.29,E3,86,Mobile Payment,Pre-booked,1
+12/15/2023,C904,47,Male,Gel Nails,CAD 111.02,E13,69,Mobile Payment,Pre-booked,1
+11/29/2023,C905,30,Female,Manicure,CAD 31.41,E13,67,Debit Card,Walk-in,4
+7/23/2023,C906,47,Female,Manicure,CAD 126.78,E12,65,Debit Card,Pre-booked,5
+10/13/2023,C907,56,Female,Manicure,CAD 21.91,E3,91,Mobile Payment,Pre-booked,2
+12/31/2023,C908,50,Female,Gel Nails,CAD 133.80,E13,88,Debit Card,Pre-booked,1
+12/21/2023,C909,31,Male,Gel Nails,CAD 143.02,E4,74,Mobile Payment,Walk-in,2
+1/7/2023,C910,28,Male,Nail Art,CAD 146.03,E7,63,Credit Card,Pre-booked,3
+2/19/2023,C911,61,Female,Manicure,CAD 70.81,E10,68,Cash,Walk-in,4
+4/18/2023,C912,27,Male,Nail Art,CAD 60.05,E3,30,Credit Card,Walk-in,2
+12/19/2023,C913,36,Female,Gel Nails,CAD 61.18,E12,60,Cash,Pre-booked,4
+3/20/2023,C914,47,Male,Nail Art,CAD 79.37,E5,81,Credit Card,Walk-in,3
+10/19/2023,C915,27,Female,Foot Massage,CAD 104.46,E6,89,Debit Card,Walk-in,1
+3/23/2023,C916,61,Female,Manicure,CAD 82.56,E10,53,Debit Card,Walk-in,1
+3/22/2023,C917,26,Male,Nail Art,CAD 137.54,E4,103,Mobile Payment,Walk-in,3
+12/11/2023,C918,20,Female,Nail Art,CAD 53.58,E6,56,Debit Card,Walk-in,3
+7/20/2023,C919,49,Female,Gel Nails,CAD 137.96,E2,107,Cash,Pre-booked,5
+7/14/2023,C920,48,Male,Pedicure,CAD 53.96,E8,39,Credit Card,Pre-booked,1
+10/23/2023,C921,31,Female,Manicure,CAD 59.99,E12,50,Mobile Payment,Pre-booked,2
+12/14/2023,C922,46,Female,Pedicure,CAD 69.85,E5,72,Credit Card,Walk-in,4
+11/28/2023,C923,30,Male,Foot Massage,CAD 37.79,E11,35,Mobile Payment,Walk-in,5
+5/17/2023,C924,20,Female,Acrylic Nails,CAD 107.51,E11,73,Cash,Pre-booked,3
+11/12/2023,C925,45,Male,Pedicure,CAD 81.59,E3,120,Debit Card,Pre-booked,4
+10/2/2023,C926,38,Female,Manicure,CAD 50.08,E1,91,Cash,Walk-in,1
+8/31/2023,C927,53,Female,Foot Massage,CAD 121.06,E5,41,Credit Card,Pre-booked,2
+7/8/2023,C928,41,Female,Nail Art,CAD 44.94,E11,54,Debit Card,Pre-booked,1
+9/13/2023,C929,33,Male,Acrylic Nails,CAD 137.24,E12,35,Debit Card,Walk-in,5
+9/14/2023,C930,21,Female,Acrylic Nails,CAD 75.84,E15,103,Mobile Payment,Pre-booked,1
+12/8/2023,C931,45,Female,Pedicure,CAD 137.41,E7,40,Mobile Payment,Walk-in,2
+12/23/2023,C932,27,Male,Pedicure,CAD 20.85,E7,99,Cash,Pre-booked,5
+1/17/2023,C933,46,Male,Acrylic Nails,CAD 47.81,E13,97,Credit Card,Walk-in,5
+5/8/2023,C934,60,Female,Nail Art,CAD 130.02,E3,71,Mobile Payment,Walk-in,1
+2/7/2023,C935,46,Male,Acrylic Nails,CAD 37.88,E5,112,Cash,Walk-in,4
+3/17/2023,C936,64,Female,Pedicure,CAD 134.75,E2,71,Mobile Payment,Pre-booked,2
+7/8/2023,C937,34,Female,Acrylic Nails,CAD 44.77,E7,49,Credit Card,Walk-in,3
+10/1/2023,C938,56,Male,Foot Massage,CAD 92.88,E11,55,Mobile Payment,Pre-booked,4
+6/20/2023,C939,35,Male,Pedicure,CAD 115.40,E11,68,Mobile Payment,Walk-in,4
+4/10/2023,C940,45,Male,Nail Art,CAD 113.27,E8,63,Credit Card,Pre-booked,5
+9/12/2023,C941,62,Male,Foot Massage,CAD 86.26,E15,63,Mobile Payment,Walk-in,3
+12/19/2023,C942,26,Female,Pedicure,CAD 100.56,E9,43,Mobile Payment,Pre-booked,2
+8/25/2023,C943,44,Male,Manicure,CAD 97.44,E8,56,Cash,Walk-in,1
+11/18/2023,C944,49,Male,Pedicure,CAD 33.33,E7,105,Cash,Walk-in,2
+6/11/2023,C945,25,Female,Gel Nails,CAD 87.86,E11,119,Cash,Pre-booked,4
+12/6/2023,C946,32,Male,Acrylic Nails,CAD 64.73,E3,108,Cash,Pre-booked,4
+7/24/2023,C947,61,Female,Foot Massage,CAD 77.67,E14,72,Cash,Pre-booked,4
+12/11/2023,C948,39,Female,Pedicure,CAD 147.37,E11,83,Debit Card,Walk-in,5
+11/20/2023,C949,32,Female,Acrylic Nails,CAD 101.23,E15,113,Debit Card,Walk-in,3
+7/4/2023,C950,22,Female,Manicure,CAD 126.71,E14,85,Debit Card,Pre-booked,3
+2/7/2023,C951,60,Female,Nail Art,CAD 140.60,E3,97,Debit Card,Pre-booked,4
+10/24/2023,C952,33,Male,Gel Nails,CAD 112.98,E7,115,Cash,Pre-booked,3
+7/17/2023,C953,23,Male,Manicure,CAD 99.97,E12,112,Debit Card,Walk-in,5
+3/8/2023,C954,36,Male,Nail Art,CAD 84.99,E10,55,Credit Card,Walk-in,5
+10/8/2023,C955,65,Male,Acrylic Nails,CAD 146.67,E11,118,Credit Card,Walk-in,4
+6/9/2023,C956,42,Male,Acrylic Nails,CAD 126.36,E10,56,Cash,Walk-in,1
+7/10/2023,C957,58,Male,Gel Nails,CAD 126.28,E13,38,Mobile Payment,Pre-booked,5
+7/25/2023,C958,33,Male,Gel Nails,CAD 47.21,E7,38,Mobile Payment,Walk-in,1
+10/7/2023,C959,33,Female,Foot Massage,CAD 106.52,E3,118,Cash,Pre-booked,5
+11/13/2023,C960,50,Female,Foot Massage,CAD 100.25,E1,72,Debit Card,Pre-booked,4
+1/3/2023,C961,39,Male,Manicure,CAD 80.47,E14,105,Cash,Pre-booked,2
+11/5/2023,C962,22,Female,Foot Massage,CAD 25.20,E3,100,Mobile Payment,Pre-booked,5
+2/9/2023,C963,54,Female,Gel Nails,CAD 140.09,E10,114,Cash,Walk-in,5
+12/24/2023,C964,34,Female,Nail Art,CAD 114.64,E13,60,Debit Card,Pre-booked,4
+5/12/2023,C965,51,Male,Foot Massage,CAD 104.66,E15,116,Mobile Payment,Pre-booked,2
+10/15/2023,C966,48,Female,Nail Art,CAD 37.85,E2,77,Cash,Walk-in,2
+2/9/2023,C967,41,Female,Nail Art,CAD 142.12,E11,60,Credit Card,Pre-booked,1
+12/24/2023,C968,52,Female,Gel Nails,CAD 121.28,E4,30,Cash,Walk-in,4
+1/17/2023,C969,19,Male,Pedicure,CAD 76.57,E6,54,Debit Card,Walk-in,4
+12/30/2023,C970,64,Female,Nail Art,CAD 119.87,E2,42,Credit Card,Pre-booked,1
+8/1/2023,C971,30,Female,Pedicure,CAD 143.69,E13,91,Mobile Payment,Walk-in,1
+10/31/2023,C972,47,Male,Foot Massage,CAD 134.30,E3,102,Mobile Payment,Pre-booked,1
+6/25/2023,C973,53,Female,Pedicure,CAD 80.04,E6,88,Mobile Payment,Pre-booked,1
+11/20/2023,C974,60,Male,Gel Nails,CAD 141.26,E10,52,Mobile Payment,Walk-in,1
+2/22/2023,C975,63,Male,Nail Art,CAD 23.56,E14,53,Credit Card,Walk-in,5
+11/30/2023,C976,39,Male,Acrylic Nails,CAD 87.84,E4,39,Mobile Payment,Walk-in,5
+5/12/2023,C977,39,Female,Acrylic Nails,CAD 25.60,E15,97,Cash,Pre-booked,5
+6/20/2023,C978,19,Female,Manicure,CAD 131.48,E6,61,Debit Card,Walk-in,2
+2/20/2023,C979,23,Female,Foot Massage,CAD 106.37,E6,81,Mobile Payment,Pre-booked,3
+9/24/2023,C980,30,Male,Manicure,CAD 45.40,E4,58,Credit Card,Pre-booked,4
+11/21/2023,C981,51,Female,Acrylic Nails,CAD 124.87,E15,102,Mobile Payment,Pre-booked,2
+2/7/2023,C982,31,Female,Acrylic Nails,CAD 124.11,E13,97,Debit Card,Pre-booked,5
+1/6/2023,C983,25,Female,Pedicure,CAD 54.67,E6,71,Mobile Payment,Walk-in,1
+8/29/2023,C984,65,Female,Pedicure,CAD 60.99,E14,93,Credit Card,Pre-booked,5
+7/17/2023,C985,56,Male,Acrylic Nails,CAD 94.52,E11,63,Credit Card,Pre-booked,3
+4/22/2023,C986,43,Male,Nail Art,CAD 72.10,E12,62,Cash,Pre-booked,4
+2/22/2023,C987,43,Female,Pedicure,CAD 54.91,E11,107,Debit Card,Pre-booked,1
+4/26/2023,C988,60,Male,Acrylic Nails,CAD 126.04,E5,117,Credit Card,Pre-booked,3
+10/5/2023,C989,52,Female,Acrylic Nails,CAD 101.89,E10,110,Cash,Pre-booked,5
+1/31/2023,C990,53,Female,Manicure,CAD 56.96,E9,116,Cash,Pre-booked,5
+11/22/2023,C991,33,Female,Nail Art,CAD 140.40,E7,119,Mobile Payment,Pre-booked,1
+12/15/2023,C992,23,Male,Manicure,CAD 120.10,E6,38,Cash,Walk-in,1
+8/22/2023,C993,27,Female,Pedicure,CAD 116.60,E1,89,Mobile Payment,Pre-booked,5
+6/2/2023,C994,18,Male,Acrylic Nails,CAD 37.87,E6,60,Debit Card,Pre-booked,4
+10/27/2023,C995,55,Female,Pedicure,CAD 105.07,E10,41,Debit Card,Walk-in,4
+9/22/2023,C996,43,Male,Foot Massage,CAD 77.45,E6,75,Mobile Payment,Pre-booked,5
+9/19/2023,C997,62,Female,Foot Massage,CAD 24.63,E11,36,Debit Card,Walk-in,3
+3/11/2023,C998,18,Male,Foot Massage,CAD 40.00,E10,40,Credit Card,Walk-in,2
+9/18/2023,C999,28,Male,Gel Nails,CAD 149.09,E3,88,Cash,Walk-in,1
+3/28/2023,C1000,43,Female,Acrylic Nails,CAD 24.13,E5,81,Debit Card,Pre-booked,2
