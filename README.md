@@ -2,6 +2,7 @@
 ## Project Overview
 This project involves analyzing a dataset from a business nail salon in Winnipeg, Manitoba, Canada to gain insights into the business’s customer base, sales trends, and employee productivity. The dataset contains 1,000 rows of information including service types, customer demographics, transaction amounts, and employee performance over the year 2023.
 
+You can download the dataset [here](https://github.com/remy-nguyen-binh/Nail-Salon-Clients-Services-Insight-/blob/main/nail_salon_dataset.csv)
 The main focus of this analysis is to answer key stakeholder questions that drive business decisions:
 - Who are our most loyal customers?
 - What is the average customer visit frequency per month?
@@ -10,6 +11,7 @@ The main focus of this analysis is to answer key stakeholder questions that driv
 
 ## Tool
 I use Excel for data cleaning, data analyzing and data visualization.
+You can download the Excel Dashboard [here](https://github.com/remy-nguyen-binh/Nail-Salon-Clients-Services-Insight-/blob/main/Dashboard%20-%20Nail%20Salon%20Dataset%20Analysis.xlsx)
 
 ## Data Insight
 ### Age distribution
